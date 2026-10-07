@@ -1,6 +1,7 @@
 # Banco de contenido del almacén. Cada item: (fecha, slot, categoria, titulo, [3 puntos], cierre, hashtags_extra)
 # categorias: sabias | util | limpieza | efemeride | almacen
 C = [
+("2026-10-07","0000","almacen","Ahora también estamos en Instagram",["Síguenos en @detodocl.almacen.","Datos útiles, tips y novedades del almacén.","Pedidos y consultas por WhatsApp."],"¡Te esperamos en el almacén!","almacen"),
 ("2026-10-08","1100","sabias","¿Sabías que un huevo te dice si está fresco?",["Pon el huevo en un vaso con agua.","Si se hunde y queda acostado, está fresco.","Si se para o flota, es mejor no consumirlo."],"Prueba simple, sin gastar nada.","huevos"),
 ("2026-10-08","1900","util","Cómo guardar el pan para que dure más",["No lo guardes en el refrigerador: se endurece antes.","Si te sobra, congélalo en rebanadas.","El pan duro sirve para tostadas o pan rallado."],"Reserva tu pan por WhatsApp y retíralo calentito.","pan"),
 ("2026-10-09","1100","efemeride","Hoy es el Día Mundial del Huevo",["Se celebra el segundo viernes de octubre.","El huevo es un alimento versátil y económico.","Revuelto, cocido, frito o en tortilla: ¿cómo te gusta?"],"Cuéntanos tu receta favorita con huevo.","huevo"),
