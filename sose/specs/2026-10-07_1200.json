@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-07",
+ "slot": "1200",
+ "categoria": "Cuerpo y bienestar",
+ "tema": "Baño frecuente y salud del corazón",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Quienes se bañan casi todos los días tienen menos riesgo cardiovascular",
+ "chart": {
+  "titulo": "Menor riesgo vs. bañarse menos de 2 veces por semana",
+  "subtitulo": "Baño casi diario · estudio japonés",
+  "items": [
+   {
+    "label": "Enfermedad cardiovascular",
+    "valor": 28,
+    "texto": "28% menos"
+   },
+   {
+    "label": "Accidente cerebrovascular (ACV)",
+    "valor": 26,
+    "texto": "26% menos"
+   }
+  ],
+  "maximo": 40,
+  "nota": "Estudio observacional: muestra una asociación, no una causa."
+ },
+ "cards": [
+  [
+   "+30.000",
+   "personas seguidas\n(adultos de mediana edad)"
+  ],
+  [
+   "~20 años",
+   "de seguimiento\nen Japón"
+  ],
+  [
+   "Heart, 2020",
+   "revista científica\ndel estudio"
+  ]
+ ],
+ "explicacion": [
+  "Ojo: es una asociación, no una promesa.",
+  "Agua cómoda, sin sobrecalentarte."
+ ],
+ "fuente_corta": "Fuente: Harvard Health sobre estudio japonés publicado en Heart (2020)",
+ "fuente": "Harvard Health, resumen de estudio japonés publicado en Heart (marzo 2020)",
+ "url_fuente": "https://www.health.harvard.edu/heart-health/can-hot-baths-protect-your-heart",
+ "caption_ig": "¿Sabías que bañarte casi todos los días podría estar asociado a un corazón más sano? 🛁❤️\n\nUn estudio japonés que siguió a más de 30.000 adultos durante unos 20 años (publicado en la revista Heart, 2020) encontró que quienes se bañaban casi a diario tenían 28% menos riesgo de enfermedad cardiovascular y 26% menos riesgo de accidente cerebrovascular, comparados con quienes se bañaban menos de 2 veces por semana.\n\nOjo: es un estudio observacional. Muestra una asociación, no prueba que el baño sea la causa.\n\n✨ Para disfrutarlo con cuidado:\n• Agua cómoda, sin sobrecalentarte\n• Entra y sal con calma\n• Si tienes problemas del corazón o presión alta, consulta antes a tu médico\n\nGuárdalo y compártelo con quien necesite un momento de pausa 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que bañarte casi todos los días podría estar asociado a un corazón más sano? 🛁❤️\n\nUn estudio japonés que siguió a más de 30.000 adultos durante unos 20 años (revista Heart, 2020) encontró que quienes se bañaban casi a diario tenían 28% menos riesgo de enfermedad cardiovascular y 26% menos de accidente cerebrovascular, frente a quienes se bañaban menos de 2 veces por semana.\n\nOjo: es un estudio observacional, muestra una asociación y no prueba que el baño sea la causa. Usa agua cómoda, sin sobrecalentarte, y si tienes problemas del corazón o presión alta, consulta antes a tu médico.\n\n¿Cuál es tu momento favorito para bañarte: mañana o noche? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #bienestar #autocuidado #saludcardiovascular #baño #relajacion #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: quienes se bañan casi a diario tienen 28% menos riesgo de enfermedad cardiovascular y 26% menos de accidente cerebrovascular que quienes se bañan menos de dos veces por semana, según un estudio japonés con más de 30.000 personas."
+}

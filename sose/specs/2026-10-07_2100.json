@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-07",
+ "slot": "2100",
+ "categoria": "Aromas naturales",
+ "tema": "Aceites esenciales y ansiedad",
+ "kicker": "Aromas que calman",
+ "titulo": "Los aromas naturales pueden ayudar a bajar la ansiedad, según 44 ensayos clínicos",
+ "chart": {
+  "titulo": "Cómo se estudió",
+  "subtitulo": "Personas con ansiedad en los 44 ensayos",
+  "items": [
+   {
+    "label": "Con aceite esencial",
+    "valor": 1815,
+    "texto": "1.815 personas"
+   },
+   {
+    "label": "Grupo de comparación",
+    "valor": 1604,
+    "texto": "1.604 personas"
+   }
+  ],
+  "maximo": 2000,
+  "nota": "Total: 3.419 personas con ansiedad."
+ },
+ "cards": [
+  [
+   "44 ensayos",
+   "clínicos aleatorizados\nreunidos y comparados"
+  ],
+  [
+   "3.419",
+   "personas con\nansiedad"
+  ],
+  [
+   "Lavanda",
+   "entre los aceites con\nefecto moderado"
+  ]
+ ],
+ "explicacion": [
+  "Es un apoyo para relajarte,",
+  "no reemplaza un tratamiento si lo necesitas."
+ ],
+ "fuente_corta": "Fuente: Frontiers in Public Health (2023) · revisión sistemática y metaanálisis en red",
+ "fuente": "Frontiers in Public Health (2023), revisión sistemática de ensayos aleatorizados y metaanálisis en red",
+ "url_fuente": "https://pubmed.ncbi.nlm.nih.gov/37325306/",
+ "caption_ig": "¿Sabías que ciertos aromas naturales pueden ayudarte a sentirte con menos ansiedad? 🌿\n\nUna revisión publicada en Frontiers in Public Health (2023) reunió 44 ensayos clínicos aleatorizados, con 3.419 personas con ansiedad, y concluyó que los aceites esenciales reducen tanto la ansiedad del momento como la de fondo. La lavanda estuvo entre los aceites con un efecto moderado.\n\nOjo: los aromas son un apoyo para relajarte, no reemplazan un tratamiento. Si la ansiedad te afecta seguido, vale la pena hablar con un profesional.\n\n✨ Para probar en casa:\n• Un aroma suave en tu rincón de descanso\n• Respirar lento unos minutos\n• Hacerlo parte de tu rutina de la noche\n\nGuárdalo para cuando necesites calmarte 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que ciertos aromas naturales pueden ayudarte a sentirte con menos ansiedad? 🌿\n\nUna revisión publicada en Frontiers in Public Health (2023) reunió 44 ensayos clínicos aleatorizados, con 3.419 personas con ansiedad, y concluyó que los aceites esenciales reducen tanto la ansiedad del momento como la de fondo. La lavanda estuvo entre los aceites con un efecto moderado.\n\nOjo: los aromas son un apoyo para relajarte, no reemplazan un tratamiento. Si la ansiedad te afecta seguido, vale la pena hablar con un profesional.\n\n¿Cuál es tu aroma favorito para relajarte? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #aromaterapia #lavanda #bienestar #calma #autocuidado #relajacion #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: 1.815 personas con ansiedad recibieron aceite esencial y 1.604 fueron grupo de comparación, en 44 ensayos clínicos reunidos en una revisión de 2023."
+}

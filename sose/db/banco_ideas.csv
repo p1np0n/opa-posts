@@ -1,0 +1,8 @@
+﻿id,tema,categoria,dato_verificado,fuente,url_fuente,estado
+1,Baño frecuente y salud del corazón,Cuerpo y bienestar,Estudio japonés con >30.000 personas por ~20 años: quienes se bañaban casi a diario tuvieron 28% menos riesgo de enfermedad cardiovascular y 26% menos de ACV (vs. <2 veces/semana). Precaución: personas con problemas cardíacos o presión descontrolada deben consultar.,Harvard Health,https://www.health.harvard.edu/heart-health/hot-baths-and-saunas-beneficial-for-your-heart,"verificado, listo para producir"
+2,Lavanda y ansiedad,Aromas naturales,"Revisión sistemática 2023: 76 estudios, 6.539 participantes; más del 70% reportó efecto positivo en ansiedad. Ojo: certeza de la evidencia baja a moderada, hay que decirlo en el post.",Kings Research (resumen de la revisión),https://www.kingsresearch.com/blog/aromatherapy-sleep-stress-anxiety,"verificado, confirmar con paper original"
+3,Aromaterapia inhalada y sueño,Aromas naturales,Meta-análisis 2021 (34 estudios): efecto positivo general de la aromaterapia por inhalación en problemas de sueño; faltan guías de uso estandarizadas.,Kings Research (resumen de meta-análisis),https://www.kingsresearch.com/blog/aromatherapy-sleep-stress-anxiety,"verificado, confirmar con paper original"
+4,Rutina nocturna: luz baja y pantallas,Sueño y descanso,,,,por investigar
+5,Manzanilla: qué dice la ciencia,Plantas y té,,,,por investigar
+6,Respiración lenta para calmar el estrés,Mente tranquila,,,,por investigar
+7,Piel seca en primavera: hábitos simples,Cuidado de la piel,,,,por investigar
