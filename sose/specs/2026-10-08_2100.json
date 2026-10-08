@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-08",
+ "slot": "2100",
+ "categoria": "Aromas naturales",
+ "tema": "Aromaterapia y calidad del sueño",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Los aromas podrían ayudar a dormir mejor, según 30 estudios",
+ "chart": {
+  "titulo": "Efecto de la aromaterapia en la calidad del sueño (tamaño del efecto)",
+  "subtitulo": "Revisión y metaanálisis · adultos y mayores",
+  "items": [
+   {
+    "label": "Los 30 estudios",
+    "valor": 0.74,
+    "texto": "0,74"
+   },
+   {
+    "label": "Estudios de mayor calidad",
+    "valor": 0.93,
+    "texto": "0,93"
+   }
+  ],
+  "maximo": 1.2,
+  "nota": "Estudios de calidad variable; el efecto exacto es incierto."
+ },
+ "cards": [
+  [
+   "30 estudios",
+   "reunidos en\nla revisión"
+  ],
+  [
+   "Adultos",
+   "y personas\nmayores"
+  ],
+  [
+   "Compl. Ther. Med., 2021",
+   "revista científica\ndel metaanálisis"
+  ]
+ ],
+ "explicacion": [
+  "Es un apoyo para tu rutina, no una cura.",
+  "Prueba aromas suaves y ventila el lugar."
+ ],
+ "fuente_corta": "Fuente: Her y Cho, Complementary Therapies in Medicine (2021)",
+ "fuente": "Her J. y Cho M.K., Complementary Therapies in Medicine 60:102739 (2021), revisión sistemática y metaanálisis",
+ "url_fuente": "https://pubmed.ncbi.nlm.nih.gov/34166869/",
+ "caption_ig": "¿Sabías que los aromas podrían acompañar una mejor noche de descanso? 🌙🌿\n\nUna revisión sistemática con metaanálisis publicada en Complementary Therapies in Medicine (2021) reunió 30 estudios en adultos y personas mayores y encontró que la aromaterapia se asoció a una mejor calidad del sueño (tamaño del efecto 0,74; 0,93 en los estudios de mejor calidad metodológica).\n\nOjo: los estudios eran de calidad variable y distintos entre sí (distintos aromas, formas de uso y duración), por lo que el efecto real es incierto. Es un apoyo para tu rutina, no un tratamiento para el insomnio.\n\n✨ Para probar en tu rutina de la noche:\n• Un aroma suave en tu rincón de descanso\n• Ventila el lugar y evita aromas muy intensos\n• Si tienes asma, alergias o estás embarazada, consulta antes a tu médico\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que los aromas podrían acompañar una mejor noche de descanso? 🌙🌿\n\nUna revisión sistemática con metaanálisis publicada en Complementary Therapies in Medicine (2021) reunió 30 estudios en adultos y personas mayores y encontró que la aromaterapia se asoció a una mejor calidad del sueño (tamaño del efecto 0,74; 0,93 en los estudios de mejor calidad).\n\nOjo: los estudios eran de calidad variable y muy distintos entre sí, así que el efecto real es incierto. Es un apoyo para tu rutina, no un tratamiento para el insomnio. Si tienes asma, alergias o estás embarazada, consulta antes a tu médico, y si duermes mal seguido, habla con un profesional.\n\n¿Qué haces tú para cerrar el día con calma? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #aromaterapia #sueño #dormirmejor #rutinanocturna #bienestar #autocuidado #relajacion #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: la aromaterapia mostró un efecto de 0,74 sobre la calidad del sueño en 30 estudios, y de 0,93 en los estudios de mejor calidad, según un metaanálisis publicado en 2021."
+}

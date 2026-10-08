@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-08",
+ "slot": "1200",
+ "categoria": "Mente tranquila",
+ "tema": "Respiración lenta para calmar el estrés",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Respirar con calma unos minutos al día se asocia a menos estrés",
+ "chart": {
+  "titulo": "Efecto de los ejercicios de respiración (tamaño del efecto)",
+  "subtitulo": "Metaanálisis de ensayos aleatorizados · adultos",
+  "items": [
+   {
+    "label": "Estrés (12 ensayos)",
+    "valor": 0.35,
+    "texto": "0,35"
+   },
+   {
+    "label": "Ansiedad (20 estudios)",
+    "valor": 0.32,
+    "texto": "0,32"
+   }
+  ],
+  "maximo": 0.6,
+  "nota": "Efecto pequeño a moderado; evidencia con riesgo de sesgo moderado."
+ },
+ "cards": [
+  [
+   "12 ensayos",
+   "aleatorizados\nsobre estrés"
+  ],
+  [
+   "785",
+   "adultos\nparticipantes"
+  ],
+  [
+   "Sci. Reports, 2023",
+   "revista científica\ndel metaanálisis"
+  ]
+ ],
+ "explicacion": [
+  "Efecto pequeño a moderado, no una cura.",
+  "Si te mareas, vuelve a respirar normal."
+ ],
+ "fuente_corta": "Fuente: Fincham et al., Scientific Reports (2023)",
+ "fuente": "Fincham G.W. et al., Scientific Reports 13:432 (2023), metaanálisis de ensayos controlados aleatorizados",
+ "url_fuente": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383",
+ "caption_ig": "¿Sabías que dedicarle unos minutos a respirar con calma podría ayudarte a sentir menos estrés? 🌬️\n\nUn metaanálisis publicado en Scientific Reports (2023) reunió 12 ensayos aleatorizados con 785 adultos y encontró que los ejercicios de respiración se asociaron a menos estrés (tamaño del efecto 0,35). También hubo menos ansiedad (0,32, en 20 estudios) y menos síntomas de depresión (0,40, en 18 estudios).\n\nOjo: son efectos pequeños a moderados, los estudios eran pequeños, se basaron en cuestionarios que responden las propias personas y la mayoría tenía riesgo de sesgo moderado. Es un apoyo, no un tratamiento.\n\n✨ Para probar con calma:\n• Siéntate cómodo y suelta los hombros\n• Inhala por la nariz y exhala lento, más largo que la inhalación\n• Empieza con 2 o 3 minutos\n• Si te mareas, vuelve a respirar normal. Si tienes una condición respiratoria o cardíaca, consulta antes a tu médico\n\nGuárdalo para tu próxima pausa 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que dedicarle unos minutos a respirar con calma podría ayudarte a sentir menos estrés? 🌬️\n\nUn metaanálisis publicado en Scientific Reports (2023) reunió 12 ensayos aleatorizados con 785 adultos y encontró que los ejercicios de respiración se asociaron a menos estrés (tamaño del efecto 0,35), y también a menos ansiedad (0,32) y menos síntomas de depresión (0,40).\n\nOjo: son efectos pequeños a moderados, con estudios pequeños y cuestionarios autorreportados. Es un apoyo, no un tratamiento. Empieza con 2 o 3 minutos, exhalando más lento de lo que inhalas; si te mareas, vuelve a respirar normal, y si tienes una condición respiratoria o cardíaca, consulta antes a tu médico.\n\n¿Cuál es tu forma favorita de hacer una pausa durante el día? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #bienestar #respiracion #mentetranquila #estres #calma #autocuidado #pausa #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: los ejercicios de respiración se asociaron a un efecto de 0,35 sobre el estrés y de 0,32 sobre la ansiedad, según un metaanálisis de 12 ensayos aleatorizados con 785 adultos publicado en Scientific Reports en 2023."
+}

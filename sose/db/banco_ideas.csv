@@ -1,8 +1,13 @@
 ﻿id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 1,Baño frecuente y salud del corazón,Cuerpo y bienestar,Estudio japonés con >30.000 personas por ~20 años: quienes se bañaban casi a diario tuvieron 28% menos riesgo de enfermedad cardiovascular y 26% menos de ACV (vs. <2 veces/semana). Precaución: personas con problemas cardíacos o presión descontrolada deben consultar.,Harvard Health,https://www.health.harvard.edu/heart-health/hot-baths-and-saunas-beneficial-for-your-heart,"verificado, listo para producir"
 2,Lavanda y ansiedad,Aromas naturales,"Revisión sistemática 2023: 76 estudios, 6.539 participantes; más del 70% reportó efecto positivo en ansiedad. Ojo: certeza de la evidencia baja a moderada, hay que decirlo en el post.",Kings Research (resumen de la revisión),https://www.kingsresearch.com/blog/aromatherapy-sleep-stress-anxiety,"verificado, confirmar con paper original"
-3,Aromaterapia inhalada y sueño,Aromas naturales,Meta-análisis 2021 (34 estudios): efecto positivo general de la aromaterapia por inhalación en problemas de sueño; faltan guías de uso estandarizadas.,Kings Research (resumen de meta-análisis),https://www.kingsresearch.com/blog/aromatherapy-sleep-stress-anxiety,"verificado, confirmar con paper original"
+3,Aromaterapia inhalada y sueño,Aromas naturales,"Revisión y metaanálisis (Her y Cho, Complement Ther Med 2021, 30 estudios): efecto 0,74 en calidad del sueño; 0,93 en estudios de mejor calidad. Calidad variable.",PubMed / Complementary Therapies in Medicine 2021,https://pubmed.ncbi.nlm.nih.gov/34166869/,usado 2026-10-08 2100
 4,Rutina nocturna: luz baja y pantallas,Sueño y descanso,,,,por investigar
 5,Manzanilla: qué dice la ciencia,Plantas y té,,,,por investigar
-6,Respiración lenta para calmar el estrés,Mente tranquila,,,,por investigar
+6,Respiración lenta para calmar el estrés,Mente tranquila,"Metaanálisis (Fincham, Sci Rep 2023): 12 ensayos, 785 adultos; estrés g=0,35, ansiedad 0,32, depresión 0,40. Sesgo moderado.",Scientific Reports 2023,https://pmc.ncbi.nlm.nih.gov/articles/PMC9828383,usado 2026-10-08 1200
 7,Piel seca en primavera: hábitos simples,Cuidado de la piel,,,,por investigar
+8,Suspiro cíclico 5 min al día,Mente tranquila,"Ensayo aleatorizado (Balban, Cell Reports Medicine 2023): 108 adultos, 5 min diarios por 28 días; el suspiro cíclico mejoró el ánimo más que la meditación. Exploratorio, muestra mayormente estudiantes.",Cell Reports Medicine 2023,https://pmc.ncbi.nlm.nih.gov/articles/PMC9873947,"verificado, listo para producir"
+9,Aromaterapia y sueño (metaanálisis 2015),Aromas naturales,"Hwang y Shin, J Altern Complement Med 2015: 12 estudios en metaanálisis, la aromaterapia mejoró la calidad del sueño; inhalación con efecto significativo. Faltan guías de uso.",J Altern Complement Med 2015 (vía Univ. Ewha),https://pure.ewha.ac.kr/en/publications/the-effects-of-aromatherapy-on-sleep-improvement-a-systematic-lit/,verificado parcialmente (solo resumen)
+10,Té de hierbas antes de dormir,Plantas y té,,,,por investigar
+11,Luz cálida y pantallas de noche,Sueño y descanso,,,,por investigar
+12,Hidratación de la piel tras el baño,Cuidado de la piel,,,,por investigar
