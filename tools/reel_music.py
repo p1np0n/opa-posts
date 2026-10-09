@@ -1,6 +1,7 @@
 import numpy as np, wave
-SR=44100; BPM=124; spb=60/BPM
-DUR=38.0
+import sys,os
+SR=44100; BPM=int(os.environ.get('REEL_BPM',124)); spb=60/BPM
+DUR=float(sys.argv[1]) if len(sys.argv)>1 else 38.0
 N=int(SR*DUR); out=np.zeros(N)
 def add(buf,start,sig,g=1.0):
     i=int(start*SR); j=min(N,i+len(sig))
@@ -28,9 +29,13 @@ def saw(f,n,det=0.004):
 def square(f,n):
     t=np.arange(n)/SR; return np.sign(np.sin(2*np.pi*f*t))
 mid=lambda m:440*2**((m-69)/12)
-prog=[(57,[57,60,64]),(53,[53,57,60]),(48,[48,52,55]),(55,[55,59,62])]  # Am F C G
+PROGS={'a':[(57,[57,60,64]),(53,[53,57,60]),(48,[48,52,55]),(55,[55,59,62])],
+ 'b':[(62,[62,65,69]),(58,[58,62,65]),(53,[53,57,60]),(60,[60,64,67])],
+ 'c':[(60,[60,64,67]),(55,[55,59,62]),(57,[57,60,64]),(53,[53,57,60])],
+ 'd':[(64,[64,67,71]),(60,[60,64,67]),(55,[55,59,62]),(62,[62,66,69])]}
+prog=PROGS[os.environ.get('REEL_PROG','a')]
 bars=int(DUR/(4*spb))+1
-rng=np.random.default_rng(3); np.random.seed(3)
+rng=np.random.default_rng(3); np.random.seed(int(os.environ.get('REEL_SEED',3)))
 for b in range(bars):
     root,ch=prog[b%4]; t0=b*4*spb
     intro = b<1
@@ -70,5 +75,5 @@ fo=int(2.0*SR); out[-fo:]*=np.linspace(1,0,fo)
 out=np.tanh(out*1.6)*0.85
 st=np.stack([out,np.roll(out,int(0.012*SR))],1)
 pcm=(st*32767).astype('<i2')
-w=wave.open('music.wav','wb'); w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes(pcm.tobytes()); w.close()
+w=wave.open(os.environ.get('REEL_WAV','music.wav'),'wb'); w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR); w.writeframes(pcm.tobytes()); w.close()
 print('ok',DUR,spb)
