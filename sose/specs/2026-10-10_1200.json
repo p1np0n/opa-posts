@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-10",
+ "slot": "1200",
+ "categoria": "Mente tranquila",
+ "tema": "Suspiro cíclico: 5 minutos de respiración",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Cinco minutos al día de respiración con exhalación larga mejoraron el ánimo más que meditar",
+ "chart": {
+  "titulo": "Aumento diario del ánimo positivo (escala 1 a 5)",
+  "subtitulo": "Ensayo aleatorizado · 1 mes · 5 min al día",
+  "items": [
+   {
+    "label": "Ejercicios de respiración",
+    "valor": 1.91,
+    "texto": "1,91"
+   },
+   {
+    "label": "Meditación (mindfulness)",
+    "valor": 1.22,
+    "texto": "1,22"
+   }
+  ],
+  "maximo": 2.5,
+  "nota": "Adultos sanos, mayormente universitarios; estudio exploratorio."
+ },
+ "cards": [
+  [
+   "5 min",
+   "al día durante\nun mes"
+  ],
+  [
+   "Remoto",
+   "ensayo aleatorizado\ncon adultos sanos"
+  ],
+  [
+   "Cell Rep. Med., 2023",
+   "revista científica\ndel estudio"
+  ]
+ ],
+ "explicacion": [
+  "El suspiro cíclico fue el que más subió el ánimo.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Balban et al., Cell Reports Medicine (2023)",
+ "fuente": "Balban M.Y. et al., Cell Reports Medicine 4(1):100895 (2023), ensayo controlado aleatorizado; cifras según Stanford Medicine (2023)",
+ "url_fuente": "https://doi.org/10.1016/j.xcrm.2022.100895",
+ "caption_ig": "¿Sabías que cinco minutos de respiración consciente podrían subirte el ánimo? 🌬️\n\nUn ensayo aleatorizado publicado en Cell Reports Medicine (2023), hecho a distancia con adultos sanos durante un mes, comparó tres ejercicios de respiración con meditación mindfulness, todos de 5 minutos al día. El ánimo positivo aumentó en promedio 1,91 puntos por día en los grupos de respiración y 1,22 en el de meditación (escala de 1 a 5). El \"suspiro cíclico\", que alarga la exhalación, fue el que más subió el ánimo y también bajó la frecuencia respiratoria en reposo.\n\nOjo: fue un estudio exploratorio, con adultos sanos y mayormente jóvenes universitarios, y no midió efectos a largo plazo. Es un apoyo, no un tratamiento.\n\n✨ Para probar con calma:\n• Inhala por la nariz hasta llenar cómodamente los pulmones\n• Toma un segundo sorbo corto de aire\n• Exhala lento por la boca, más largo que la inhalación\n• Empieza con 1 o 2 minutos\n• Si te mareas, vuelve a respirar normal. Si tienes una condición respiratoria o cardíaca, consulta antes a tu médico\n\nGuárdalo para tu próxima pausa 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que cinco minutos de respiración consciente podrían subirte el ánimo? 🌬️\n\nUn ensayo aleatorizado publicado en Cell Reports Medicine (2023), hecho a distancia con adultos sanos durante un mes, comparó tres ejercicios de respiración con meditación mindfulness, todos de 5 minutos al día. El ánimo positivo aumentó en promedio 1,91 puntos por día con la respiración y 1,22 con la meditación (escala de 1 a 5); el \"suspiro cíclico\", que alarga la exhalación, fue el más efectivo.\n\nOjo: estudio exploratorio, con adultos sanos y mayormente jóvenes, sin seguimiento a largo plazo. Es un apoyo, no un tratamiento. Si te mareas, vuelve a respirar normal, y si tienes una condición respiratoria o cardíaca, consulta antes a tu médico.\n\n¿Cuál es tu forma favorita de hacer una pausa durante el día? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #bienestar #respiracion #suspirociclico #mentetranquila #calma #autocuidado #pausa #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: el ánimo positivo aumentó 1,91 puntos por día con ejercicios de respiración y 1,22 con meditación mindfulness, en un ensayo aleatorizado de un mes publicado en Cell Reports Medicine en 2023."
+}

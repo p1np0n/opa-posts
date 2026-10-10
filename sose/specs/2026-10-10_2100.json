@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-10",
+ "slot": "2100",
+ "categoria": "Plantas y té",
+ "tema": "Manzanilla y sueño",
+ "kicker": "¿Sabías que…?",
+ "titulo": "La manzanilla podría ayudar a dormir mejor, según 10 estudios clínicos",
+ "chart": {
+  "titulo": "Estudios que encontraron mejora con manzanilla",
+  "subtitulo": "Revisión sistemática de ensayos clínicos · 2024",
+  "items": [
+   {
+    "label": "Tiempo para dormirse (3 de 4)",
+    "valor": 3,
+    "texto": "3 de 4"
+   },
+   {
+    "label": "Despertares nocturnos (2 de 3)",
+    "valor": 2,
+    "texto": "2 de 3"
+   }
+  ],
+  "maximo": 4,
+  "nota": "Estudios pequeños y muy distintos entre sí; evidencia limitada."
+ },
+ "cards": [
+  [
+   "10 ensayos",
+   "clínicos incluidos\nen la revisión"
+  ],
+  [
+   "772",
+   "adultos\nparticipantes"
+  ],
+  [
+   "Compl. Ther. Med., 2024",
+   "revista científica\nde la revisión"
+  ]
+ ],
+ "explicacion": [
+  "No cambió la duración del sueño ni el cansancio diurno.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Kazemi et al., Complementary Therapies in Medicine (2024)",
+ "fuente": "Kazemi A. et al., Complementary Therapies in Medicine 84:103071 (2024), revisión sistemática y metaanálisis de ensayos clínicos",
+ "url_fuente": "https://doaj.org/article/e8c50be3526a4d56837aa697a826ec48",
+ "caption_ig": "¿Sabías que una taza de manzanilla podría acompañar una mejor noche de descanso? 🌼🌙\n\nUna revisión sistemática con metaanálisis publicada en Complementary Therapies in Medicine (2024) reunió 10 ensayos clínicos con 772 adultos. En los 5 estudios que usaron el cuestionario de calidad del sueño PSQI, la manzanilla se asoció a una mejora de 1,88 puntos en promedio. También mejoró el tiempo para dormirse en 3 de 4 estudios y los despertares nocturnos en 2 de 3.\n\nOjo: no mejoró la duración del sueño ni el cansancio durante el día, los estudios fueron pequeños y muy distintos entre sí (alta heterogeneidad) y casi todo se midió con cuestionarios. El efecto real es incierto. Es un apoyo para tu rutina, no un tratamiento para el insomnio.\n\n✨ Para probar en tu rutina de la noche:\n• Una infusión tibia, sin azúcar, un rato antes de acostarte\n• Luces bajas y celular lejos\n• Si tienes alergia a plantas como la margarita, estás embarazada o tomas anticoagulantes, consulta antes a tu médico\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que una taza de manzanilla podría acompañar una mejor noche de descanso? 🌼🌙\n\nUna revisión sistemática con metaanálisis publicada en Complementary Therapies in Medicine (2024) reunió 10 ensayos clínicos con 772 adultos. En los 5 estudios con el cuestionario PSQI, la manzanilla se asoció a una mejora de 1,88 puntos en la calidad del sueño; además, mejoró el tiempo para dormirse en 3 de 4 estudios y los despertares en 2 de 3.\n\nOjo: no mejoró la duración del sueño ni el cansancio diurno, y los estudios eran pequeños y muy distintos entre sí, así que el efecto real es incierto. Es un apoyo, no un tratamiento. Si tienes alergia a plantas como la margarita, estás embarazada o tomas anticoagulantes, consulta antes a tu médico, y si duermes mal seguido, habla con un profesional.\n\n¿Tomas alguna infusión antes de dormir? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #manzanilla #infusion #plantas #dormirmejor #sueño #rutinanocturna #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: la manzanilla mejoró el tiempo para dormirse en 3 de 4 estudios y los despertares nocturnos en 2 de 3, en una revisión de 10 ensayos clínicos con 772 adultos publicada en 2024."
+}
