@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-11",
+ "slot": "2100",
+ "categoria": "Sueño y descanso",
+ "tema": "Música suave y calidad del sueño",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Escuchar música antes de dormir se asocia a mejor sueño, según 10 estudios",
+ "chart": {
+  "titulo": "Mejora en puntaje de calidad del sueño (PSQI), puntos",
+  "subtitulo": "Revisión Cochrane · 2022",
+  "items": [
+   {
+    "label": "Música por 8–21 días",
+    "valor": 2.24,
+    "texto": "2,2"
+   },
+   {
+    "label": "Música por 22–90 días",
+    "valor": 3.36,
+    "texto": "3,4"
+   }
+  ],
+  "maximo": 4,
+  "nota": "Escala PSQI de 0 a 21; menos es mejor. Medido con cuestionarios."
+ },
+ "cards": [
+  [
+   "10 estudios",
+   "con adultos\ncon insomnio"
+  ],
+  [
+   "708",
+   "personas\nparticipantes"
+  ],
+  [
+   "Cochrane, 2022",
+   "revisión\nsistemática"
+  ]
+ ],
+ "explicacion": [
+  "Con mediciones objetivas del sueño no hubo efecto.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Jespersen et al., Cochrane Database Syst Rev (2022)",
+ "fuente": "Jespersen K.V. et al., Cochrane Database of Systematic Reviews (2022), \"Listening to music for insomnia in adults\", revisión sistemática de ensayos",
+ "url_fuente": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010459.pub3/information",
+ "hashtags": "#sose #elartedeestarenpaz #musica #dormirmejor #sueño #rutinanocturna #bienestar #autocuidado #relajacion #vidasana #calma #chile",
+ "alt": "Gráfica de SOSE con dos barras: la calidad del sueño mejoró 2,2 puntos del cuestionario PSQI en quienes escucharon música entre 8 y 21 días y 3,4 puntos entre 22 y 90 días, en una revisión Cochrane de 2022 con 10 estudios y 708 adultos con insomnio.",
+ "caption_ig": "¿Sabías que escuchar música tranquila antes de dormir podría acompañar tu descanso? 🎶🌙\n\nUna revisión Cochrane (2022) reunió 10 estudios con 708 adultos con insomnio y encontró que escuchar música se asoció a una mejor calidad del sueño: en promedio 2,8 puntos menos en el cuestionario PSQI (escala de 0 a 21, donde menos es mejor). La mejora fue de 2,2 puntos en quienes escucharon música entre 8 y 21 días y de 3,4 puntos entre 22 y 90 días. La certeza de la evidencia se calificó como moderada.\n\nOjo: se midió con cuestionarios que responden las propias personas; con mediciones objetivas del sueño no hubo efecto, la severidad del insomnio no cambió de forma clara y los seguimientos fueron cortos (14 a 90 días). Es un apoyo para tu rutina, no un tratamiento para el insomnio.\n\n✨ Para probar en tu rutina de la noche:\n• Música suave, a volumen bajo\n• Luces bajas y celular lejos\n• A la misma hora cada noche\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que escuchar música tranquila antes de dormir podría acompañar tu descanso? 🎶🌙\n\nUna revisión Cochrane (2022) reunió 10 estudios con 708 adultos con insomnio y encontró que escuchar música se asoció a una mejor calidad del sueño: en promedio 2,8 puntos menos en el cuestionario PSQI (escala de 0 a 21, donde menos es mejor), con certeza de la evidencia moderada.\n\nOjo: se midió con cuestionarios; con mediciones objetivas del sueño no hubo efecto y los seguimientos fueron cortos. Es un apoyo, no un tratamiento. Si duermes mal seguido, habla con un profesional.\n\n¿Qué música te acompaña antes de dormir? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud."
+}
