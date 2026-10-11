@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-14",
+ "slot": "1200",
+ "categoria": "Piel y baño",
+ "tema": "Agua dura y eczema infantil",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Ablandar el agua dura no mejoró el eczema infantil en un ensayo con 336 niños",
+ "chart": {
+  "titulo": "Mejora en el puntaje de eczema (SASSAD), puntos",
+  "subtitulo": "Ensayo aleatorizado · 12 semanas · 2011",
+  "items": [
+   {
+    "label": "Con ablandador de agua",
+    "valor": 5.0,
+    "texto": "5,0"
+   },
+   {
+    "label": "Sin ablandador",
+    "valor": 5.7,
+    "texto": "5,7"
+   }
+  ],
+  "maximo": 7,
+  "nota": "Niños con eczema moderado a grave. Ambos grupos mejoraron, sin diferencia real."
+ },
+ "cards": [
+  [
+   "336 niños",
+   "de 6 meses\na 16 años"
+  ],
+  [
+   "12 semanas",
+   "de seguimiento\ncon evaluación ciega"
+  ],
+  [
+   "PLoS Med., 2011",
+   "revista científica\ndel ensayo"
+  ]
+ ],
+ "explicacion": [
+  "Ambos grupos mejoraron: la diferencia no fue significativa.",
+  "Evaluó niños con eczema, no piel sana."
+ ],
+ "fuente_corta": "Fuente: Thomas et al., PLoS Medicine (2011)",
+ "fuente": "Thomas K.S. et al., PLoS Medicine 8(2):e1000395 (2011), ensayo controlado aleatorizado (SWET) de ablandadores de agua por intercambio iónico en niños con eczema atópico",
+ "url_fuente": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3039684",
+ "caption_ig": "¿Sabías que el agua dura, la que tiene mucho calcio, a veces se culpa de la piel irritada? 💧\n\nUn ensayo controlado aleatorizado publicado en PLoS Medicine (2011) siguió a 336 niños de 6 meses a 16 años con eczema atópico moderado a grave que vivían en zonas de agua dura. A un grupo se le instaló un ablandador de agua en casa y al otro no. A las 12 semanas, el puntaje de eczema (SASSAD) mejoró 5,0 puntos con ablandador y 5,7 sin él: una diferencia de 0,66 puntos que no fue estadísticamente significativa. Tampoco cambió el uso de cremas con corticoides.\n\nOjo: el estudio evaluó niños que ya tenían eczema, no piel sana, y duró solo 12 semanas. Los autores concluyen que el ablandador no aportó beneficio adicional al cuidado habitual. Algunos resultados informados por los padres sí mostraron pequeñas diferencias, que los autores atribuyen a sesgo de respuesta, porque las familias sabían qué grupo les tocó.\n\n✨ Para cuidar tu piel después del baño:\n• Seca con toques suaves, sin frotar\n• Hidrata la piel apenas sales, con el producto que te indique tu profesional\n• Si tu piel o la de tus hijos tiene eczema, consulta a un médico o dermatólogo\n\nGuárdalo para tu rutina de cuidado 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que el agua dura a veces se culpa de la piel irritada? 💧\n\nUn ensayo aleatorizado publicado en PLoS Medicine (2011) siguió a 336 niños con eczema atópico moderado a grave en zonas de agua dura. A las 12 semanas, el puntaje de eczema mejoró 5,0 puntos con ablandador de agua y 5,7 sin él: la diferencia no fue significativa y los autores concluyen que no aportó beneficio adicional al cuidado habitual.\n\nOjo: el estudio evaluó niños que ya tenían eczema, no piel sana, y duró 12 semanas. Si tú o tus hijos tienen eczema, consulta a un médico o dermatólogo.\n\n¿Notas diferencia en tu piel según el agua que usas? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #cuidadodelapiel #pielsensible #eczema #aguadura #baño #rutinadebaño #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: el puntaje de eczema SASSAD mejoró 5,0 puntos en niños con ablandador de agua y 5,7 puntos sin ablandador, una diferencia no significativa, en un ensayo de 2011 con 336 niños."
+}

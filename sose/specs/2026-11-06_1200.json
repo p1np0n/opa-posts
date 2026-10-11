@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-06",
+ "slot": "1200",
+ "categoria": "Sueño y descanso",
+ "tema": "Atención plena y sueño",
+ "kicker": "¿Sabías que…?",
+ "titulo": "La atención plena mejoró el sueño más que la educación en higiene del sueño",
+ "chart": {
+  "titulo": "Mejora en puntaje de calidad del sueño (PSQI), puntos",
+  "subtitulo": "Ensayo clínico · JAMA Internal Medicine 2015",
+  "items": [
+   {
+    "label": "Atención plena",
+    "valor": 2.8,
+    "texto": "2,8"
+   },
+   {
+    "label": "Higiene del sueño",
+    "valor": 1.1,
+    "texto": "1,1"
+   }
+  ],
+  "maximo": 4,
+  "nota": "Escala PSQI de 0 a 21; menos es mejor. Medido con cuestionarios."
+ },
+ "cards": [
+  [
+   "49",
+   "adultos de 55\naños o más"
+  ],
+  [
+   "6 sesiones",
+   "semanales de\n2 horas"
+  ],
+  [
+   "JAMA Intern Med, 2015",
+   "ensayo clínico\naleatorizado"
+  ]
+ ],
+ "explicacion": [
+  "Diferencia entre grupos: 1,8 puntos (IC 95%: 0,6 a 2,9).",
+  "Muestra pequeña, mayormente mujeres y con alta escolaridad."
+ ],
+ "fuente_corta": "Fuente: Black et al., JAMA Internal Medicine (2015)",
+ "fuente": "Black D.S. et al., JAMA Internal Medicine (2015), \"Mindfulness meditation and improvement in sleep quality and daytime impairment among older adults with sleep disturbances\", ensayo clínico aleatorizado (datos según comentario en J Clin Outcomes Manag 2015)",
+ "url_fuente": "https://mdedge.com/content/mindfulness-meditation-sleep-problems",
+ "caption_ig": "¿Sabías que practicar atención plena podría acompañar un mejor descanso? 🧘🌙\n\nUn ensayo clínico aleatorizado publicado en JAMA Internal Medicine (2015) reunió a 49 adultos de 55 años o más con problemas de sueño. Tras 6 sesiones semanales de 2 horas, el grupo de atención plena mejoró 2,8 puntos en el cuestionario de calidad del sueño PSQI (escala de 0 a 21, menos es mejor), frente a 1,1 puntos del grupo de educación en higiene del sueño. La diferencia entre grupos fue de 1,8 puntos (IC 95%: 0,6 a 2,9).\n\nOjo: la muestra fue pequeña, mayormente mujeres con alta escolaridad, faltaron datos finales del 12% de las personas, se midió con cuestionarios y los beneficios se evaluaron a corto plazo. Hace falta replicarlo.\n\n✨ Para probar:\n• Unos minutos de atención a tu respiración antes de dormir\n• Luces bajas y celular lejos\n• Un horario parecido cada noche\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que practicar atención plena podría acompañar un mejor descanso? 🧘🌙\n\nUn ensayo clínico (JAMA Internal Medicine, 2015) con 49 adultos de 55 años o más con problemas de sueño: tras 6 sesiones semanales, el grupo de atención plena mejoró 2,8 puntos en el cuestionario PSQI, frente a 1,1 puntos del grupo de educación en higiene del sueño (diferencia de 1,8 puntos).\n\nOjo: muestra pequeña, medido con cuestionarios y a corto plazo; hace falta replicarlo. Si duermes mal seguido, habla con un profesional.\n\n¿Practicas alguna pausa de calma antes de dormir? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #atencionplena #mindfulness #sueño #dormirmejor #rutinanocturna #calma #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un ensayo clínico de 2015 con 49 adultos mayores, la calidad del sueño mejoró 2,8 puntos del cuestionario PSQI con atención plena y 1,1 puntos con educación en higiene del sueño."
+}

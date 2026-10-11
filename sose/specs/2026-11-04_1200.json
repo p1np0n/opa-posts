@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-04",
+ "slot": "1200",
+ "categoria": "Mente en calma",
+ "tema": "Apps y estrés",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Las apps de salud mental muestran un efecto pequeño sobre el estrés, según 69 ensayos",
+ "chart": {
+  "titulo": "Efecto sobre el estrés percibido (g de Hedges)",
+  "subtitulo": "Metaanálisis · Health Psychol Rev · 2024",
+  "items": [
+   {
+    "label": "Efecto observado",
+    "valor": 0.27,
+    "texto": "0,27"
+   },
+   {
+    "label": "Tras corregir sesgo",
+    "valor": 0.1,
+    "texto": "0,10"
+   }
+  ],
+  "maximo": 0.4,
+  "nota": "Efecto pequeño y de corto plazo; se redujo tras el ajuste."
+ },
+ "cards": [
+  [
+   "69 ensayos",
+   "aleatorizados\ncontrolados"
+  ],
+  [
+   "78",
+   "comparaciones\nanalizadas"
+  ],
+  [
+   "Health Psychol. Rev., 2024",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "El efecto se redujo a la mitad tras el ajuste.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Linardon et al., Health Psychology Review (2024)",
+ "fuente": "Linardon J. et al., Efficacy of mental health smartphone apps on stress levels: a meta-analysis of randomised controlled trials. Health Psychology Review 18(4):839-852 (2024)",
+ "url_fuente": "https://researchers.westernsydney.edu.au/en/publications/efficacy-of-mental-health-smartphone-apps-on-stress-levels-a-meta/",
+ "caption_ig": "¿Sabías que una app de bienestar podría ayudarte con el estrés, aunque poco? 📱🌿\n\nUn metaanálisis publicado en Health Psychology Review (2024) reunió 69 ensayos aleatorizados (78 comparaciones) sobre apps de salud mental y estrés percibido. El efecto fue pequeño pero significativo (g = 0,27; IC 95 %: 0,20 a 0,34). Al corregir el posible sesgo de los estudios pequeños, bajó a g = 0,10 (IC 95 %: 0,02 a 0,19).\n\nOjo: hubo mucha variación entre estudios (I² de 68 % a 78 %), los efectos parecen de corto plazo y los autores piden más datos a largo plazo. Son apps de salud mental en general, no una app en particular. Es un apoyo, no un tratamiento.\n\n✨ Para probar:\n• Elige una sola app y úsala unos minutos al día\n• Combínala con hábitos simples: pausas, luz de día, caminar\n• Evita usarla justo antes de dormir con el brillo alto\n• Si el estrés te sobrepasa, habla con un profesional\n\nGuárdalo para cuando necesites una pausa 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que una app de bienestar podría ayudarte con el estrés, aunque poco? 📱🌿\n\nUn metaanálisis publicado en Health Psychology Review (2024) reunió 69 ensayos aleatorizados sobre apps de salud mental y estrés percibido. El efecto fue pequeño (g = 0,27) y bajó a g = 0,10 al corregir el sesgo de los estudios pequeños.\n\nOjo: hubo mucha variación entre estudios y los efectos parecen de corto plazo. Es un apoyo, no un tratamiento. Si el estrés te sobrepasa, habla con un profesional.\n\n¿Usas alguna app para calmarte? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #estres #apps #saludmental #mentecalma #bienestar #autocuidado #calma #mindfulness #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un metaanálisis de 69 ensayos publicado en 2024, las apps de salud mental mostraron un efecto de 0,27 sobre el estrés, que bajó a 0,10 tras corregir el sesgo de estudios pequeños."
+}

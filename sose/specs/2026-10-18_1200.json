@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-18",
+ "slot": "1200",
+ "categoria": "Plantas y té",
+ "tema": "Jengibre y náuseas del embarazo",
+ "kicker": "¿Sabías que…?",
+ "titulo": "El jengibre podría aliviar las náuseas del embarazo, según 12 ensayos",
+ "chart": {
+  "titulo": "Diferencia media frente a placebo",
+  "subtitulo": "Revisión sistemática y metaanálisis · 2014",
+  "items": [
+   {
+    "label": "Náuseas (significativo)",
+    "valor": 1.2,
+    "texto": "1,2"
+   },
+   {
+    "label": "Vómitos (no significativo)",
+    "valor": 0.72,
+    "texto": "0,72"
+   }
+  ],
+  "maximo": 2,
+  "nota": "Evidencia de calidad baja; los vómitos no mejoraron de forma clara."
+ },
+ "cards": [
+  [
+   "12 ensayos",
+   "aleatorizados\nincluidos"
+  ],
+  [
+   "1.278",
+   "mujeres\nembarazadas"
+  ],
+  [
+   "Nutr. J., 2014",
+   "revista científica\nde la revisión"
+  ]
+ ],
+ "explicacion": [
+  "Los estudios usaron jengibre oral, no solo té.",
+  "Consulta a tu médico en el embarazo."
+ ],
+ "fuente_corta": "Fuente: Viljoen et al., Nutrition Journal (2014)",
+ "fuente": "Viljoen E. et al., Nutrition Journal 13:20 (2014), revisión sistemática y metaanálisis de ensayos aleatorizados",
+ "url_fuente": "https://scholar.sun.ac.za/handle/10019.1/86181",
+ "caption_ig": "¿Sabías que el jengibre es una de las plantas más estudiadas para las náuseas del embarazo? 🫚\n\nUna revisión sistemática con metaanálisis publicada en Nutrition Journal (2014) reunió 12 ensayos aleatorizados con 1.278 mujeres embarazadas. El jengibre oral mejoró las náuseas frente a placebo (diferencia media 1,20; IC 95 % 0,56 a 1,84). Los episodios de vómito mejoraron menos y sin significancia estadística (0,72; IC 95 % −0,03 a 1,46). No se observó un riesgo significativo de aborto espontáneo frente a placebo.\n\nOjo: los propios autores califican la evidencia como de calidad baja, con pocos estudios y resultados medidos de forma desigual. Se usó jengibre por vía oral en distintas presentaciones, no necesariamente en infusión. Es un apoyo, no un tratamiento.\n\n✨ Para tener en cuenta:\n• Si estás embarazada, consulta con tu matrona o médico antes de usar jengibre\n• Si tomas anticoagulantes u otros medicamentos, consúltalo también\n• Si las náuseas o vómitos son intensos, busca atención profesional\n\nGuárdalo para tu rutina 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que el jengibre es una de las plantas más estudiadas para las náuseas del embarazo? 🫚\n\nUna revisión de Nutrition Journal (2014) reunió 12 ensayos con 1.278 mujeres embarazadas: el jengibre oral mejoró las náuseas frente a placebo (diferencia media 1,20), pero los vómitos no mejoraron de forma significativa (0,72) y la evidencia es de calidad baja.\n\nOjo: no se estudió solo el té. Si estás embarazada, consulta a tu médico antes de usarlo; si las náuseas son intensas, busca atención profesional.\n\n¿Qué infusión te acompaña en días de malestar? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #jengibre #infusion #plantas #embarazo #nauseas #bienestar #autocuidado #vidasana #calma #chile",
+ "alt": "Gráfica de SOSE con dos barras: el jengibre oral mejoró las náuseas del embarazo frente a placebo con una diferencia media de 1,2 y los vómitos con 0,72, este último sin significancia estadística, en una revisión de 12 ensayos con 1.278 mujeres embarazadas publicada en 2014."
+}

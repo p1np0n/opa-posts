@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-23",
+ "slot": "1200",
+ "categoria": "Plantas y té",
+ "tema": "Melisa (toronjil), ansiedad y ánimo",
+ "kicker": "¿Sabías que…?",
+ "titulo": "La melisa se asoció a menos ansiedad y síntomas depresivos, según un metaanálisis",
+ "chart": {
+  "titulo": "Efecto frente a placebo (diferencia media estandarizada)",
+  "subtitulo": "Revisión sistemática y metaanálisis · 2021",
+  "items": [
+   {
+    "label": "Ansiedad",
+    "valor": 0.98,
+    "texto": "−0,98"
+   },
+   {
+    "label": "Depresión",
+    "valor": 0.47,
+    "texto": "−0,47"
+   }
+  ],
+  "maximo": 1.2,
+  "nota": "Pocos ensayos y alta heterogeneidad; interpretar con cautela."
+ },
+ "cards": [
+  [
+   "12 bases",
+   "de datos\nrevisadas"
+  ],
+  [
+   "Hasta oct. 2020",
+   "ensayos clínicos\nincluidos"
+  ],
+  [
+   "Phytother. Res., 2021",
+   "revista científica\ndel metaanálisis"
+  ]
+ ],
+ "explicacion": [
+  "Los autores piden cautela por pocos estudios.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Ghazizadeh et al., Phytotherapy Research (2021)",
+ "fuente": "Ghazizadeh J. et al., Phytotherapy Research 35(12):6690-6705 (2021), revisión sistemática y metaanálisis de ensayos clínicos",
+ "url_fuente": "https://research.bond.edu.au/en/publications/the-effects-of-lemon-balm-melissa-officinalis-l-on-depression-and/",
+ "caption_ig": "¿Sabías que la melisa, también llamada toronjil, se ha estudiado para la ansiedad? 🍃\n\nUna revisión sistemática con metaanálisis publicada en Phytotherapy Research (2021) buscó en 12 bases de datos ensayos clínicos hasta octubre de 2020. Frente a placebo, la melisa se asoció a menores puntajes de ansiedad (diferencia media estandarizada −0,98; IC 95 % −1,63 a −0,33) y de depresión (−0,47; IC 95 % −0,73 a −0,21), sin efectos adversos graves reportados.\n\nOjo: los autores indican que hay pocos ensayos, con métodos distintos y alta heterogeneidad, y que el efecto parece más claro en el corto plazo. Los resultados deben interpretarse con cautela. Es un apoyo, no un tratamiento.\n\n✨ Para tener en cuenta:\n• Una infusión tibia puede ser parte de una pausa tranquila\n• Si estás embarazada o amamantando, o tomas medicamentos (por ejemplo sedantes), consulta antes a tu médico\n• Si sientes ansiedad frecuente, habla con un profesional\n\nGuárdalo para tu rutina 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que la melisa, también llamada toronjil, se ha estudiado para la ansiedad? 🍃\n\nUn metaanálisis de Phytotherapy Research (2021) encontró que, frente a placebo, la melisa se asoció a menos ansiedad (−0,98) y menos síntomas depresivos (−0,47) en diferencia media estandarizada, sin efectos adversos graves reportados.\n\nOjo: hay pocos ensayos y muy distintos entre sí, así que hay que interpretarlo con cautela. Es un apoyo, no un tratamiento. Si tomas medicamentos o estás embarazada, consulta antes a tu médico.\n\n¿Has probado la melisa o el toronjil en infusión? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #melisa #toronjil #infusion #plantas #calma #bienestar #autocuidado #vidasana #pausa #chile",
+ "alt": "Gráfica de SOSE con dos barras: la melisa se asoció a una reducción de la ansiedad de 0,98 y de la depresión de 0,47 en diferencia media estandarizada frente a placebo, en un metaanálisis de ensayos clínicos publicado en 2021."
+}

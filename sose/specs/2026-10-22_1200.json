@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-22",
+ "slot": "1200",
+ "categoria": "Sueño y descanso",
+ "tema": "Siesta y alerta",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Una siesta diurna se asoció a más alerta, según 11 estudios",
+ "chart": {
+  "titulo": "Mejora tras la siesta (tamaño del efecto)",
+  "subtitulo": "Metaanálisis · IJERPH 2021",
+  "items": [
+   {
+    "label": "Rendimiento general",
+    "valor": 0.18,
+    "texto": "0,18"
+   },
+   {
+    "label": "Alerta",
+    "valor": 0.29,
+    "texto": "0,29"
+   }
+  ],
+  "maximo": 0.4,
+  "nota": "Efectos pequeños vs. no dormir siesta; casi todos los estudios fueron en laboratorio."
+ },
+ "cards": [
+  [
+   "11 estudios",
+   "casi todos\nen laboratorio"
+  ],
+  [
+   "381",
+   "adultos en\nedad laboral"
+  ],
+  [
+   "IJERPH, 2021",
+   "revisión sistemática\ny metaanálisis"
+  ]
+ ],
+ "explicacion": [
+  "La siesta duró en promedio 55 minutos.",
+  "Faltan estudios en condiciones reales de trabajo."
+ ],
+ "fuente_corta": "Fuente: Dutheil et al., IJERPH (2021)",
+ "fuente": "Dutheil F. et al., International Journal of Environmental Research and Public Health 18(19):10212 (2021), \"Effects of a Short Daytime Nap on the Cognitive Performance\", revisión sistemática y metaanálisis",
+ "url_fuente": "https://www.mdpi.com/1660-4601/18/19/10212/",
+ "caption_ig": "¿Sabías que una siesta durante el día podría ayudarte a sentirte más despierto? 😴☀️\n\nUna revisión sistemática con metaanálisis publicada en IJERPH (2021) reunió 11 estudios con 381 adultos en edad laboral. Después de la siesta hubo una mejora pequeña del rendimiento cognitivo (tamaño del efecto 0,18) y algo mayor en la alerta (0,29). La siesta duró en promedio 55 minutos y su duración no cambió los resultados.\n\nOjo: casi todos los estudios fueron en laboratorio, los efectos son pequeños y justo después de despertar puede haber somnolencia (inercia del sueño). Los autores piden más estudios en condiciones reales de trabajo. No sabemos cómo afecta la siesta al sueño de la noche.\n\n✨ Para probar:\n• Un lugar tranquilo y en penumbra\n• Poner alarma para no pasarte\n• Dar unos minutos para despertar bien\n• Si te da mucho sueño de día o duermes mal, habla con un profesional\n\nGuárdalo para tu rutina 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que una siesta durante el día podría ayudarte a sentirte más despierto? 😴☀️\n\nUna revisión con metaanálisis (IJERPH, 2021) reunió 11 estudios con 381 adultos: después de la siesta hubo una mejora pequeña del rendimiento (0,18) y algo mayor en la alerta (0,29). La siesta duró en promedio 55 minutos.\n\nOjo: casi todo fue en laboratorio y los efectos son pequeños. Si te da mucho sueño de día o duermes mal, habla con un profesional.\n\n¿Eres de siesta o de no siesta? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #siesta #sueño #descanso #alerta #dormirmejor #rutina #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: en una revisión de 11 estudios con 381 adultos publicada en 2021, la siesta se asoció a una mejora pequeña del rendimiento general (0,18) y de la alerta (0,29)."
+}

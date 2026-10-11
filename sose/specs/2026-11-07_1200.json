@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-07",
+ "slot": "1200",
+ "categoria": "Plantas y té",
+ "tema": "Valeriana y sueño",
+ "kicker": "¿Sabías que…?",
+ "titulo": "La valeriana se ha estudiado en 60 trabajos para el sueño, con calidad desigual",
+ "chart": {
+  "titulo": "Participantes en cada metaanálisis",
+  "subtitulo": "Revisión sistemática y metaanálisis · 2020",
+  "items": [
+   {
+    "label": "Calidad del sueño (10 estudios)",
+    "valor": 1065,
+    "texto": "1.065"
+   },
+   {
+    "label": "Ansiedad (8 estudios)",
+    "valor": 535,
+    "texto": "535"
+   }
+  ],
+  "maximo": 1200,
+  "nota": "Incluye estudios de calidad dispar; los resultados previos eran inconsistentes."
+ },
+ "cards": [
+  [
+   "60 estudios",
+   "incluidos en\nla revisión"
+  ],
+  [
+   "6.894",
+   "participantes\nen total"
+  ],
+  [
+   "JEBIM, 2020",
+   "revista científica\nde la revisión"
+  ]
+ ],
+ "explicacion": [
+  "Los autores citan efectos adversos leves.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Shinjyo et al., J Evid Based Integr Med (2020)",
+ "fuente": "Shinjyo N., Waddell G., Green J., Journal of Evidence-Based Integrative Medicine (2020), doi:10.1177/2515690X20967323, revisión sistemática y metaanálisis",
+ "url_fuente": "https://westminsterresearch.westminster.ac.uk/item/v234x/valerian-root-in-treating-sleep-problems-and-associated-disorders-a-systematic-review-and-meta-analysis",
+ "caption_ig": "¿Sabías que la valeriana es una de las plantas más estudiadas para dormir, pero con resultados desiguales? 🌿🌙\n\nUna revisión sistemática con metaanálisis publicada en Journal of Evidence-Based Integrative Medicine (2020) incluyó 60 estudios con 6.894 participantes. Los metaanálisis cubrieron 10 estudios sobre calidad subjetiva del sueño (1.065 personas) y 8 sobre ansiedad (535). Los autores concluyen que podría ser una hierba segura y eficaz para promover el sueño, y señalan que los resultados previos eran inconsistentes, quizá por la calidad variable de los extractos.\n\nOjo: la revisión incluyó estudios controlados y observacionales sin importar su riesgo de sesgo, buscó solo en tres bases de datos y en inglés, y los efectos probablemente dependen del tipo de preparado. En los estudios se describieron efectos adversos generalmente leves, como somnolencia, mareo o molestias digestivas. Es un apoyo, no un tratamiento.\n\n✨ Para tener en cuenta:\n• Si tomas medicamentos o sedantes, o estás embarazada o amamantando, consulta antes a tu médico\n• Evita conducir si sientes somnolencia\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que la valeriana es una de las plantas más estudiadas para dormir, pero con resultados desiguales? 🌿🌙\n\nUna revisión de Journal of Evidence-Based Integrative Medicine (2020) incluyó 60 estudios con 6.894 participantes; los autores concluyen que podría promover el sueño, pero reconocen resultados previos inconsistentes y calidad variable de los extractos.\n\nOjo: incluyó estudios de calidad dispar y se describieron efectos adversos leves como somnolencia y mareo. Es un apoyo, no un tratamiento. Si tomas medicamentos o sedantes, o estás embarazada, consulta antes a tu médico; si duermes mal seguido, habla con un profesional.\n\n¿Qué hierba o infusión usas en tu rutina de la noche? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #valeriana #infusion #plantas #dormirmejor #sueño #rutinanocturna #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: el metaanálisis de valeriana sobre calidad del sueño reunió 10 estudios con 1.065 personas y el de ansiedad 8 estudios con 535, dentro de una revisión de 60 estudios con 6.894 participantes publicada en 2020."
+}

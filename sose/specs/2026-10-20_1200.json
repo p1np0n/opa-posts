@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-20",
+ "slot": "1200",
+ "categoria": "Mente en calma",
+ "tema": "Pausas cortas y energía",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Las pausas cortas se asociaron a más energía y menos cansancio, según 22 muestras",
+ "chart": {
+  "titulo": "Efecto de pausas de 10 min o menos (d de Cohen)",
+  "subtitulo": "Metaanálisis · PLOS ONE · 2022",
+  "items": [
+   {
+    "label": "Más energía (vigor)",
+    "valor": 0.36,
+    "texto": "0,36"
+   },
+   {
+    "label": "Menos cansancio",
+    "valor": 0.35,
+    "texto": "0,35"
+   }
+  ],
+  "maximo": 0.5,
+  "nota": "Efectos pequeños. No hubo efecto claro sobre el rendimiento."
+ },
+ "cards": [
+  [
+   "22 muestras",
+   "de estudios\nexperimentales"
+  ],
+  [
+   "2.335",
+   "personas\nparticipantes"
+  ],
+  [
+   "PLOS ONE, 2022",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "Sobre el rendimiento general no hubo efecto claro.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Albulescu et al., PLOS ONE (2022)",
+ "fuente": "Albulescu P. et al., \"Give me a break!\" A systematic review and meta-analysis on the efficacy of micro-breaks for increasing well-being and performance. PLOS ONE 17(8):e0272460 (2022)",
+ "url_fuente": "https://doaj.org/article/c6f37b6ba159469296b2cb968b65505f",
+ "caption_ig": "¿Sabías que una pausa de pocos minutos podría darte un poco más de energía? ☕🌿\n\nUn metaanálisis publicado en PLOS ONE (2022) reunió 22 muestras de estudios (19 publicaciones, 2.335 personas) sobre micro-pausas, es decir, detener una tarea por 10 minutos o menos. Las pausas se asociaron a más energía (vigor, d = 0,36; 9 estudios) y a menos cansancio (d = 0,35; 9 estudios). Ambos son efectos pequeños.\n\nOjo: en el rendimiento general el efecto no fue significativo (d = 0,16), algunos análisis se basan en pocos estudios y los autores sugieren que, tras tareas muy exigentes, pueden hacer falta pausas más largas. Es un apoyo para tu jornada, no un tratamiento.\n\n✨ Para probar:\n• Levántate y camina un par de minutos\n• Mira por la ventana, lejos de la pantalla\n• Estira cuello y hombros con suavidad\n• Si el cansancio es constante, consulta con un profesional\n\nGuárdalo para tu próxima jornada 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que una pausa de pocos minutos podría darte un poco más de energía? ☕🌿\n\nUn metaanálisis publicado en PLOS ONE (2022) reunió 22 muestras de estudios (2.335 personas) sobre pausas de 10 minutos o menos. Se asociaron a más energía (d = 0,36) y a menos cansancio (d = 0,35), ambos efectos pequeños.\n\nOjo: en el rendimiento general no hubo efecto significativo y algunos análisis se basan en pocos estudios. Es un apoyo, no un tratamiento. Si el cansancio es constante, consulta con un profesional.\n\n¿Cómo haces tus pausas durante el día? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #pausas #micropausas #descanso #energia #mentecalma #estres #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un metaanálisis de 22 muestras publicado en 2022, las pausas de 10 minutos o menos se asociaron a un efecto pequeño de 0,36 en energía y 0,35 en menor cansancio."
+}

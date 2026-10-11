@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-02",
+ "slot": "1200",
+ "categoria": "Plantas y té",
+ "tema": "Hibisco y presión arterial",
+ "kicker": "¿Sabías que…?",
+ "titulo": "El hibisco se asoció a menor presión arterial sistólica en 17 ensayos",
+ "chart": {
+  "titulo": "Reducción frente a grupos de comparación",
+  "subtitulo": "Revisión sistemática y metaanálisis · 2021",
+  "items": [
+   {
+    "label": "Presión sistólica (mmHg)",
+    "valor": 7.1,
+    "texto": "7,1 mmHg"
+   },
+   {
+    "label": "Colesterol LDL (mg/dL)",
+    "valor": 6.76,
+    "texto": "6,8 mg/dL"
+   }
+  ],
+  "maximo": 8,
+  "nota": "Resultados muy variables entre estudios; no sustituye tratamiento médico."
+ },
+ "cards": [
+  [
+   "17 ensayos",
+   "aleatorizados\nincluidos"
+  ],
+  [
+   "Alta variación",
+   "entre estudios\n(I² = 95 %)"
+  ],
+  [
+   "Nutr. Rev., 2021",
+   "revista científica\nde la revisión"
+  ]
+ ],
+ "explicacion": [
+  "La presión diastólica no cambió de forma clara.",
+  "Consulta si tomas medicamentos."
+ ],
+ "fuente_corta": "Fuente: Ellis et al., Nutrition Reviews (2021)",
+ "fuente": "Ellis L.R. et al., Nutrition Reviews (2021), doi:10.1093/nutrit/nuab104, revisión sistemática y metaanálisis de ensayos aleatorizados",
+ "url_fuente": "https://eprints.whiterose.ac.uk/181700/7/nuab104.pdf",
+ "caption_ig": "¿Sabías que el hibisco (flor de Jamaica) se ha estudiado por su relación con la presión arterial? 🌺\n\nUna revisión sistemática con metaanálisis publicada en Nutrition Reviews (2021) incluyó 17 ensayos aleatorizados. El hibisco se asoció a una reducción de la presión sistólica de 7,1 mmHg (IC 95 % 1,2 a 13,0) y a una baja del colesterol LDL de 6,76 mg/dL (IC 95 % 0,07 a 13,45) frente a los grupos de comparación.\n\nOjo: la variación entre estudios fue muy alta (I² de 95 %), con productos, dosis y formatos distintos (té y cápsulas), riesgo de sesgo moderado y medidas indirectas, no eventos como infartos. Los autores piden más estudios para definir dosis y duración. Es un apoyo, no un tratamiento.\n\n✨ Precauciones reales:\n• Si tomas medicamentos para la presión, el colesterol o la diabetes, consulta antes a tu médico: las interacciones no están resueltas\n• Si tienes la presión baja o estás embarazada, consúltalo también\n• Si tienes hipertensión, no cambies tu tratamiento por una infusión\n\nGuárdalo para tu rutina 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que el hibisco (flor de Jamaica) se ha estudiado por su relación con la presión arterial? 🌺\n\nUna revisión de Nutrition Reviews (2021) con 17 ensayos aleatorizados encontró que el hibisco se asoció a una reducción de la presión sistólica de 7,1 mmHg frente a los grupos de comparación.\n\nOjo: los estudios fueron muy distintos entre sí (I² de 95 %) y los autores piden más investigación. Es un apoyo, no un tratamiento: si tomas medicamentos para la presión, el colesterol o la diabetes, o estás embarazada, consulta antes a tu médico.\n\n¿Cómo te gusta tomar el hibisco, frío o caliente? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #hibisco #floredejamaica #infusion #plantas #presionarterial #bienestar #autocuidado #vidasana #calma #chile",
+ "alt": "Gráfica de SOSE con dos barras: el hibisco se asoció a una reducción de la presión sistólica de 7,1 mmHg y del colesterol LDL de 6,8 mg/dL frente a los grupos de comparación, en una revisión de 17 ensayos aleatorizados publicada en 2021."
+}

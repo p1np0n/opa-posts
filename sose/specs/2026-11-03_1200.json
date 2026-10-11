@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-03",
+ "slot": "1200",
+ "categoria": "Hidroterapia",
+ "tema": "Baño de pies con agua tibia y sueño en mayores",
+ "kicker": "¿Sabías que…?",
+ "titulo": "El baño de pies con agua tibia mejoró el sueño en 9 de 10 estudios en adultos mayores",
+ "chart": {
+  "titulo": "Estudios sobre baño de pies y calidad del sueño",
+  "subtitulo": "Revisión sistemática · BMC Geriatrics · 2024",
+  "items": [
+   {
+    "label": "Con efecto positivo",
+    "valor": 9,
+    "texto": "9 de 10"
+   },
+   {
+    "label": "Sin efecto positivo",
+    "valor": 1,
+    "texto": "1 de 10"
+   }
+  ],
+  "maximo": 10,
+  "nota": "Revisión de ensayos y estudios cuasi-experimentales; mayormente en adultos mayores."
+ },
+ "cards": [
+  [
+   "10 estudios",
+   "incluidos entre\n2010 y 2023"
+  ],
+  [
+   "Más de 40 °C",
+   "temperatura del agua\nen 9 de los estudios"
+  ],
+  [
+   "BMC Geriatr., 2024",
+   "revista científica\nde la revisión"
+  ]
+ ],
+ "explicacion": [
+  "Incluye estudios cuasi-experimentales; sin cifras de efecto.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: revisión sistemática, BMC Geriatrics (2024)",
+ "fuente": "The effect of foot bath on sleep quality in the elderly: a systematic review, BMC Geriatrics (2024), revisión sistemática de 10 estudios (resumen en DOAJ)",
+ "url_fuente": "https://doaj.org/article/712a9c8cd2b74f9bab854be2b71b26d4",
+ "caption_ig": "¿Sabías que un baño de pies con agua tibia podría acompañar el descanso de las noches? 🦶🌙\n\nUna revisión sistemática publicada en BMC Geriatrics (2024) buscó en seis bases de datos estudios de 2010 a marzo de 2023 y reunió 10 trabajos sobre el baño de pies y la calidad del sueño en personas mayores. Nueve de los 10 reportaron efectos positivos, y 9 usaron agua sobre 40 °C. La mayoría midió el sueño con un cuestionario de calidad del sueño.\n\nOjo: eran ensayos aleatorizados y estudios cuasi-experimentales, medidos en su mayoría con cuestionarios y centrados en adultos mayores; el resumen no entrega cifras del tamaño del efecto. Es un apoyo para tu rutina, no un tratamiento para el insomnio.\n\n✨ Para probar con cuidado:\n• Prueba la temperatura con la mano o un termómetro antes de meter los pies, para evitar quemaduras\n• Si tienes diabetes, mala circulación o poca sensibilidad en los pies, consulta antes a tu médico\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que un baño de pies con agua tibia podría acompañar el descanso? 🦶🌙\n\nUna revisión sistemática de BMC Geriatrics (2024) reunió 10 estudios sobre baño de pies y calidad del sueño en personas mayores: 9 reportaron efectos positivos y 9 usaron agua sobre 40 °C.\n\nOjo: los estudios se midieron con cuestionarios, y el resumen no entrega cifras del efecto. Es un apoyo, no un tratamiento. Si tienes diabetes, mala circulación o poca sensibilidad en los pies, consulta antes a tu médico.\n\n¿Te das baños de pies antes de dormir? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #bañodepies #hidroterapia #dormirmejor #sueño #rutinanocturna #relajacion #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: 9 de 10 estudios sobre baño de pies con agua tibia reportaron efectos positivos en el sueño de adultos mayores y 1 no, en una revisión sistemática de 2024."
+}

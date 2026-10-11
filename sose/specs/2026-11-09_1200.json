@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-09",
+ "slot": "1200",
+ "categoria": "Mente en calma",
+ "tema": "Risa y estado de ánimo",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Las terapias de risa se asociaron a menos depresión y ansiedad en 10 ensayos pequeños",
+ "chart": {
+  "titulo": "Ensayos que analizaron cada resultado",
+  "subtitulo": "Metaanálisis · J Adv Nurs · 2019",
+  "items": [
+   {
+    "label": "Depresión (750 personas)",
+    "valor": 9,
+    "texto": "9 ensayos"
+   },
+   {
+    "label": "Ansiedad (599 personas)",
+    "valor": 7,
+    "texto": "7 ensayos"
+   }
+  ],
+  "maximo": 10,
+  "nota": "Efecto pequeño a moderado en depresión y moderado en ansiedad."
+ },
+ "cards": [
+  [
+   "10 ensayos",
+   "con adultos"
+  ],
+  [
+   "814",
+   "personas\nparticipantes"
+  ],
+  [
+   "J Adv Nurs, 2019",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "Estudios heterogéneos y con riesgo de sesgo.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Zhao et al., Journal of Advanced Nursing (2019)",
+ "fuente": "Zhao J. et al., A meta-analysis of randomized controlled trials of laughter and humour interventions on depression, anxiety and sleep quality in adults. J Adv Nurs 75(11):2435-2448 (2019); resumen en McMaster Optimal Aging Portal",
+ "url_fuente": "https://www.mcmasteroptimalaging.org/full-article/ES/laughter-humour-interventions-improve-depression-anxiety-symptoms-small-moderate-3114",
+ "caption_ig": "¿Sabías que reír podría acompañar tu bienestar emocional? 😄🌿\n\nUn metaanálisis publicado en el Journal of Advanced Nursing (2019) reunió 10 ensayos aleatorizados con 814 adultos sobre intervenciones de risa y humor (como yoga de la risa). Según el resumen del portal McMaster Optimal Aging, hubo una mejora pequeña a moderada de la depresión (9 ensayos, 750 personas) y moderada de la ansiedad (7 ensayos, 599 personas) frente a los grupos control. En sueño, 2 ensayos con 133 personas mostraron una mejora pequeña, de unos 2 puntos en la escala PSQI (0 a 21).\n\nOjo: los estudios eran pequeños, muy distintos entre sí y con riesgo de sesgo, así que la evidencia es limitada. Es un apoyo, no un tratamiento.\n\n✨ Para probar:\n• Ve un video o una serie que te haga reír\n• Comparte un rato con alguien con quien te rías\n• Prueba una sesión de yoga de la risa\n• Si te sientes triste o ansiosa por varias semanas, habla con un profesional\n\nGuárdalo para tu próxima pausa 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que reír podría acompañar tu bienestar emocional? 😄🌿\n\nUn metaanálisis publicado en el Journal of Advanced Nursing (2019) reunió 10 ensayos con 814 adultos sobre intervenciones de risa y humor. Según el resumen de McMaster Optimal Aging, hubo una mejora pequeña a moderada de la depresión (9 ensayos) y moderada de la ansiedad (7 ensayos) frente a los grupos control.\n\nOjo: los estudios eran pequeños, distintos entre sí y con riesgo de sesgo; la evidencia es limitada. Es un apoyo, no un tratamiento. Si te sientes triste o ansiosa por varias semanas, habla con un profesional.\n\n¿Qué fue lo último que te hizo reír a carcajadas? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #risa #humor #yogadelarisa #mentecalma #animo #bienestar #autocuidado #saludmental #calma #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un metaanálisis de 10 ensayos publicado en 2019, las terapias de risa se evaluaron en 9 ensayos para depresión y 7 para ansiedad, con efectos pequeños a moderados."
+}

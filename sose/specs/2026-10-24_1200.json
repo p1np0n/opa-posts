@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-24",
+ "slot": "1200",
+ "categoria": "Hidroterapia",
+ "tema": "Ducha fría y ausencias por enfermedad",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Terminar la ducha con agua fría se asoció a 29% menos ausencias por enfermedad",
+ "chart": {
+  "titulo": "Efecto de la ducha fría vs. grupo control",
+  "subtitulo": "Ensayo aleatorizado · PLoS ONE · 2016",
+  "items": [
+   {
+    "label": "Ausencias por enfermedad",
+    "valor": 29,
+    "texto": "−29%"
+   },
+   {
+    "label": "Días de enfermedad",
+    "valor": 0,
+    "texto": "Sin diferencia"
+   }
+  ],
+  "maximo": 30,
+  "nota": "Efecto en ausencias, no en días enfermo. Se midió en 90 días."
+ },
+ "cards": [
+  [
+   "3.018 adultos",
+   "de 18 a 65 años\nsin duchas frías previas"
+  ],
+  [
+   "30–90 segundos",
+   "de agua fría\nal final de la ducha"
+  ],
+  [
+   "PLoS ONE, 2016",
+   "revista científica\ndel ensayo"
+  ]
+ ],
+ "explicacion": [
+  "Bajaron las ausencias, pero no los días con enfermedad.",
+  "No es un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Buijze et al., PLoS ONE (2016)",
+ "fuente": "Buijze G.A. et al., PLoS ONE 11(9):e0161749 (2016), ensayo controlado aleatorizado \"The Effect of Cold Showering on Health and Work\" (resumen en DOAJ)",
+ "url_fuente": "https://doaj.org/article/4c0517724c1747f69283a44cc6c53e40",
+ "caption_ig": "¿Sabías que cerrar la ducha con unos segundos de agua fría fue estudiado en personas reales? 🚿\n\nUn ensayo aleatorizado publicado en PLoS ONE (2016) incluyó a 3.018 adultos de 18 a 65 años que nunca se duchaban con frío. Los grupos terminaron su ducha con 30, 60 o 90 segundos de agua fría durante 30 días y luego siguieron a su criterio por 60 días más. Comparados con el grupo control, tuvieron 29% menos ausencias por enfermedad (razón de tasas 0,71). La adherencia fue de 79% y no se informaron eventos adversos graves.\n\nOjo: no hubo diferencia en los días con enfermedad, o sea, no se enfermaron menos días. El resultado es en ausencias, que pueden depender de otros factores, y las personas no se pueden \"cegar\" sobre si se ducharon con frío. No es un tratamiento ni una promesa de salud.\n\n✨ Si quieres probarlo:\n• Parte con tu ducha tibia de siempre y baja la temperatura solo al final\n• Hazlo de forma gradual y suspende si te sientes mal\n• Si tienes presión alta, problemas del corazón o estás embarazada, consulta antes a tu médico\n\nGuárdalo para tu rutina de la mañana 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que terminar la ducha con agua fría se estudió en un ensayo con 3.018 adultos? 🚿\n\nEn PLoS ONE (2016), quienes cerraron la ducha con 30, 60 o 90 segundos de agua fría durante 30 días tuvieron 29% menos ausencias por enfermedad que el grupo control. Pero no hubo diferencia en los días con enfermedad.\n\nOjo: las ausencias pueden depender de otros factores y no es un tratamiento. Si tienes presión alta, problemas del corazón o estás embarazada, consulta antes a tu médico.\n\n¿Te animas a terminar tu ducha con agua fría? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #duchafria #hidroterapia #ducha #rutinamatutina #bienestar #autocuidado #vidasana #habitos #salud #chile",
+ "alt": "Gráfica de SOSE con dos barras: terminar la ducha con agua fría se asoció a 29% menos ausencias por enfermedad, pero sin diferencia en los días con enfermedad, en un ensayo de 2016 con 3.018 adultos."
+}

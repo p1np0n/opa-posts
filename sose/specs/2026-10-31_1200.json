@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-31",
+ "slot": "1200",
+ "categoria": "Hábitos",
+ "tema": "Agua y ánimo",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Cambiar cuánta agua bebes por 3 días modificó el ánimo en 52 personas",
+ "chart": {
+  "titulo": "Agua al día durante 3 días de intervención, litros",
+  "subtitulo": "Estudio experimental · PLoS ONE · 2014",
+  "items": [
+   {
+    "label": "Bebían poco: subieron a",
+    "valor": 2.5,
+    "texto": "2,5 L"
+   },
+   {
+    "label": "Bebían mucho: bajaron a",
+    "valor": 1,
+    "texto": "1 L"
+   }
+  ],
+  "maximo": 3,
+  "nota": "Estudio corto y pequeño; ánimo medido con cuestionarios. Sin cifra ideal para todos."
+ },
+ "cards": [
+  [
+   "52 personas",
+   "22 bebían mucho\ny 30 poco"
+  ],
+  [
+   "3 días",
+   "de intervención\ncontrolada"
+  ],
+  [
+   "PLoS ONE, 2014",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "Subir a 2,5 L: menos fatiga. Bajar a 1 L: menos calma.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Pross et al., PLoS ONE (2014)",
+ "fuente": "Pross N. et al., PLoS ONE 9(4):e94754 (2014), \"Effects of changes in water intake on mood of high and low drinkers\"",
+ "url_fuente": "https://doaj.org/article/8108a708b5a54ead9099e75401e57204",
+ "hashtags": "#sose #elartedeestarenpaz #agua #hidratacion #habitos #animo #bienestar #autocuidado #rutina #vidasana #calma #chile",
+ "alt": "Gráfica de SOSE con dos barras: quienes bebían poco subieron a 2,5 litros de agua al día y quienes bebían mucho bajaron a 1 litro durante 3 días, en un estudio de 2014 con 52 personas que midió su ánimo.",
+ "caption_ig": "¿Sabías que la cantidad de agua que bebes podría influir en cómo te sientes? 💧🌿\n\nEn un estudio publicado en PLoS ONE (2014), 22 personas que bebían mucha agua (2 a 4 litros al día) y 30 que bebían poca (menos de 1,2 litros) cambiaron su consumo durante 3 días: las primeras bajaron a 1 litro y las segundas subieron a 2,5 litros. Al beber menos, el grupo que bebía mucho reportó más sed y menos calma y contento. Al beber más, el grupo que bebía poco reportó menos fatiga y confusión.\n\nOjo: son solo 52 personas, 3 días y el ánimo se midió con cuestionarios que responden las propias personas. No hay una cantidad ideal para todos: depende de tu cuerpo, el clima y tu actividad.\n\n✨ Para probar:\n• Tener un vaso o botella de agua a mano\n• Beber a lo largo del día, sin forzarte\n• Si tienes alguna condición de riñón o corazón, o te indicaron limitar líquidos, consulta antes a tu médico\n\nGuárdalo para recordar tomar agua 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que la cantidad de agua que bebes podría influir en cómo te sientes? 💧🌿\n\nEn un estudio de 2014 (PLoS ONE), 52 personas cambiaron su consumo de agua durante 3 días. Quienes bebían mucho y bajaron a 1 litro reportaron más sed y menos calma; quienes bebían poco y subieron a 2,5 litros reportaron menos fatiga y confusión.\n\nOjo: muestra pequeña, solo 3 días y ánimo medido con cuestionarios. No hay una cantidad ideal para todos. Si tienes alguna condición de riñón o corazón, consulta a tu médico.\n\n¿Llevas una botella de agua contigo? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud."
+}

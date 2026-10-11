@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-13",
+ "slot": "1200",
+ "categoria": "Plantas y té",
+ "tema": "Aceite de menta y colon irritable",
+ "kicker": "¿Sabías que…?",
+ "titulo": "El aceite de menta se asoció a mejoría del colon irritable en 12 ensayos",
+ "chart": {
+  "titulo": "Probabilidad de mejorar frente a placebo (riesgo relativo)",
+  "subtitulo": "Metaanálisis de ensayos · 2019",
+  "items": [
+   {
+    "label": "Síntomas en general",
+    "valor": 2.39,
+    "texto": "2,4 veces"
+   },
+   {
+    "label": "Dolor abdominal",
+    "valor": 1.78,
+    "texto": "1,8 veces"
+   }
+  ],
+  "maximo": 3,
+  "nota": "Se usó aceite de menta en cápsulas, no té. Efectos adversos sin diferencia clara."
+ },
+ "cards": [
+  [
+   "12 ensayos",
+   "aleatorizados\nincluidos"
+  ],
+  [
+   "835",
+   "adultos con\ncolon irritable"
+  ],
+  [
+   "BMC CAM, 2019",
+   "revista científica\ndel metaanálisis"
+  ]
+ ],
+ "explicacion": [
+  "El té de menta no fue lo que se estudió.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Alammar et al., BMC Complementary and Alternative Medicine (2019)",
+ "fuente": "Alammar N. et al., BMC Complementary and Alternative Medicine 19:21 (2019), metaanálisis de ensayos aleatorizados",
+ "url_fuente": "https://doaj.org/article/5d768ce383694ac1b2d6039fcca38816",
+ "caption_ig": "¿Sabías que la menta tiene respaldo científico para el colon irritable, pero no en forma de té? 🌿\n\nUn metaanálisis publicado en BMC Complementary and Alternative Medicine (2019) reunió 12 ensayos aleatorizados con 835 adultos con síndrome de intestino irritable. Quienes recibieron aceite de menta tuvieron 2,4 veces más probabilidad de mejorar sus síntomas en general (riesgo relativo 2,39) y 1,8 veces más de mejorar el dolor abdominal (1,78), frente a placebo. Los efectos adversos fueron 9,3 % con menta y 6,1 % con placebo, sin diferencia estadística clara.\n\nOjo: lo estudiado fue aceite de menta en cápsulas, no una infusión, así que no se puede asumir lo mismo para el té. Los ensayos incluidos son de tamaño y diseño variables. Es un apoyo, no un tratamiento.\n\n✨ Para tener en cuenta:\n• Una infusión de menta tibia puede ser parte de una pausa tranquila, sin promesas de efectos digestivos\n• Si estás embarazada o tomas medicamentos, consulta antes a tu médico\n• Si tienes dolor abdominal frecuente, habla con un profesional\n\nGuárdalo para tu rutina 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que la menta tiene respaldo científico para el colon irritable, pero no en forma de té? 🌿\n\nUn metaanálisis de BMC Complementary and Alternative Medicine (2019) reunió 12 ensayos con 835 adultos con síndrome de intestino irritable: el aceite de menta en cápsulas se asoció a 2,4 veces más probabilidad de mejorar los síntomas y 1,8 veces más de mejorar el dolor abdominal, frente a placebo.\n\nOjo: no se estudió el té de menta, y los ensayos eran de calidad variable. Es un apoyo, no un tratamiento. Si tienes dolor abdominal frecuente, habla con un profesional.\n\n¿Te gusta tomar una infusión de menta en la tarde? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #menta #infusion #plantas #digestion #colonirritable #bienestar #autocuidado #vidasana #calma #chile",
+ "alt": "Gráfica de SOSE con dos barras: el aceite de menta en cápsulas se asoció a 2,4 veces más probabilidad de mejorar los síntomas generales del colon irritable y 1,8 veces más de mejorar el dolor abdominal frente a placebo, en un metaanálisis de 12 ensayos con 835 adultos publicado en 2019."
+}

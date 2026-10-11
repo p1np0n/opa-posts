@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-12",
+ "slot": "1200",
+ "categoria": "Sueño y descanso",
+ "tema": "Alcohol y sueño REM",
+ "kicker": "¿Sabías que…?",
+ "titulo": "El alcohol antes de dormir se asocia a menos sueño REM, según 27 estudios",
+ "chart": {
+  "titulo": "Efecto del alcohol en el sueño REM, minutos",
+  "subtitulo": "Metaanálisis · Sleep Medicine Reviews 2025",
+  "items": [
+   {
+    "label": "Menos sueño REM",
+    "valor": 11.3,
+    "texto": "−11,3 min"
+   },
+   {
+    "label": "REM tarda más en llegar",
+    "valor": 18.0,
+    "texto": "+18,0 min"
+   }
+  ],
+  "maximo": 20,
+  "nota": "Alcohol cerca de la hora de dormir vs. sin alcohol, en adultos sanos."
+ },
+ "cards": [
+  [
+   "27 estudios",
+   "con adultos\nsanos"
+  ],
+  [
+   "18–70 años",
+   "edad de las\npersonas incluidas"
+  ],
+  [
+   "Sleep Med Rev, 2025",
+   "revisión sistemática\ny metaanálisis"
+  ]
+ ],
+ "explicacion": [
+  "El tiempo total de sueño no cambió de forma clara.",
+  "Hay incertidumbre: 21 de 27 estudios tenían riesgo de sesgo."
+ ],
+ "fuente_corta": "Fuente: Gardiner et al., Sleep Medicine Reviews (2025)",
+ "fuente": "Gardiner C. et al., Sleep Medicine Reviews 80:102030 (2025), \"The effect of alcohol on subsequent sleep in healthy adults\", revisión sistemática y metaanálisis",
+ "url_fuente": "https://research.monash.edu/en/publications/the-effect-of-alcohol-on-subsequent-sleep-in-healthy-adults-a-sys/",
+ "caption_ig": "¿Sabías que el alcohol cerca de la hora de dormir puede cambiar cómo es tu sueño? 🌙\n\nUna revisión sistemática con metaanálisis publicada en Sleep Medicine Reviews (2025) reunió 27 estudios con adultos sanos de 18 a 70 años, en su mayoría con alcohol tomado hasta unas 3 horas antes de acostarse. En promedio, el alcohol se asoció a 11,3 minutos menos de sueño REM y a que el REM tardara 18 minutos más en aparecer.\n\nOjo: el tiempo total de sueño (−10,1 min), el tiempo para dormirse y los despertares nocturnos no mostraron cambios claros. Además, 21 de los 27 estudios tenían riesgo de sesgo, los rangos de resultados fueron amplios y los autores hablan de \"considerable incertidumbre\". No se pudo evaluar el momento exacto de la ingesta ni diferencias por sexo.\n\n✨ Para cuidar tu descanso:\n• Una infusión tibia y sin alcohol como cierre del día\n• Luces bajas y celular lejos\n• Un horario parecido cada noche\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que el alcohol cerca de la hora de dormir puede cambiar cómo es tu sueño? 🌙\n\nUna revisión con metaanálisis (Sleep Medicine Reviews, 2025) reunió 27 estudios con adultos sanos: el alcohol se asoció, en promedio, a 11,3 minutos menos de sueño REM y a que el REM tardara 18 minutos más en aparecer. El tiempo total de sueño no cambió de forma clara.\n\nOjo: 21 de los 27 estudios tenían riesgo de sesgo y los autores hablan de considerable incertidumbre. Si duermes mal seguido, habla con un profesional.\n\n¿Cómo cierras tu día para descansar mejor? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #alcohol #sueño #dormirmejor #sueñoREM #rutinanocturna #bienestar #autocuidado #descanso #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: en una revisión de 27 estudios con adultos sanos publicada en 2025, el alcohol se asoció a 11,3 minutos menos de sueño REM y a que el REM tardara 18 minutos más en comenzar."
+}

@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-10",
+ "slot": "1200",
+ "categoria": "Hábitos",
+ "tema": "Luz del día y ritmo de sueño",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Más luz de día se asocia a un ritmo de sueño más estable, con evidencia limitada",
+ "chart": {
+  "titulo": "Estudios revisados según calidad (de 25)",
+  "subtitulo": "Revisión sistemática · Sleep Health · 2021",
+  "items": [
+   {
+    "label": "Calidad buena",
+    "valor": 5,
+    "texto": "5"
+   },
+   {
+    "label": "Calidad regular",
+    "valor": 16,
+    "texto": "16"
+   }
+  ],
+  "maximo": 25,
+  "nota": "Los 25 estudios eran transversales: muestran asociación, no causa."
+ },
+ "cards": [
+  [
+   "25 estudios",
+   "con adultos sanos,\ntodos transversales"
+  ],
+  [
+   "Luz",
+   "medida con\ndispositivo de muñeca"
+  ],
+  [
+   "Sleep Health, 2021",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "Con sueño y ánimo los resultados fueron contradictorios.",
+  "Es una pista, no una prueba."
+ ],
+ "fuente_corta": "Fuente: Böhmer et al., Sleep Health (2021)",
+ "fuente": "Böhmer M.N. et al., Sleep Health 7(5):610-630 (2021), \"Are we still in the dark?\", revisión sistemática de estudios transversales",
+ "url_fuente": "https://pubmed.ncbi.nlm.nih.gov/34420891/",
+ "hashtags": "#sose #elartedeestarenpaz #luzdelsol #luznatural #sueño #habitos #ritmo #bienestar #autocuidado #rutina #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: de 25 estudios revisados sobre luz diaria y sueño, 5 tenían calidad buena y 16 regular, en una revisión sistemática de 2021 con estudios transversales.",
+ "caption_ig": "¿Sabías que la luz que recibes durante el día podría relacionarse con tu ritmo de descanso? ☀️🌙\n\nUna revisión sistemática publicada en Sleep Health (2021) incluyó 25 estudios con adultos sanos que midieron su exposición diaria a la luz, casi siempre con un dispositivo de muñeca. Hubo evidencia limitada de que más luz, y mejor distribuida durante el día, se relaciona con un ritmo de actividad y descanso más fuerte. En cambio, para la calidad del sueño y el ánimo los resultados fueron contradictorios.\n\nOjo: los 25 estudios eran transversales (miden un momento, no prueban causa) y la calidad general fue baja: 5 se calificaron buenos, 16 regulares y 4 deficientes. Además, el dispositivo en la muñeca no siempre refleja la luz que llega a los ojos. Es una pista, no una prueba.\n\n✨ Para probar:\n• Salir un rato a la luz del día, por ejemplo en la mañana\n• Nunca mirar directamente al sol\n• Proteger tu piel según tu tipo de piel y la hora\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu paseo de la mañana 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que la luz que recibes durante el día podría relacionarse con tu ritmo de descanso? ☀️🌙\n\nUna revisión en Sleep Health (2021) incluyó 25 estudios con adultos sanos. Hubo evidencia limitada de que más luz, y mejor distribuida durante el día, se relaciona con un ritmo de actividad y descanso más fuerte; con la calidad del sueño y el ánimo los resultados fueron contradictorios.\n\nOjo: todos los estudios eran transversales (no prueban causa) y la calidad general fue baja. Es una pista, no una prueba. No mires directamente al sol, protege tu piel y, si duermes mal seguido, habla con un profesional.\n\n¿Sales a la luz del día en tu rutina? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud."
+}

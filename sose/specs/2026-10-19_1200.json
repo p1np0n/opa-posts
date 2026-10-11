@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-19",
+ "slot": "1200",
+ "categoria": "Piel y baño",
+ "tema": "Emolientes en el agua del baño y eczema infantil",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Añadir emolientes al agua del baño no mejoró el eczema en 482 niños",
+ "chart": {
+  "titulo": "Diferencia en el puntaje de eczema (POEM), puntos",
+  "subtitulo": "Ensayo aleatorizado · BMJ · 2018",
+  "items": [
+   {
+    "label": "Diferencia observada",
+    "valor": 0.41,
+    "texto": "0,41"
+   },
+   {
+    "label": "Mínimo que se considera relevante",
+    "valor": 3,
+    "texto": "3,0"
+   }
+  ],
+  "maximo": 3,
+  "nota": "Niños de 1 a 11 años con eczema, seguidos por 12 meses. Es un estudio sobre eczema."
+ },
+ "cards": [
+  [
+   "482 niños",
+   "de 1 a 11 años\ncon eczema"
+  ],
+  [
+   "12 meses",
+   "de seguimiento\nen 96 consultas"
+  ],
+  [
+   "BMJ, 2018",
+   "ensayo BATHE\nen Reino Unido"
+  ]
+ ],
+ "explicacion": [
+  "La diferencia fue menor al mínimo clínicamente relevante.",
+  "Se refiere a eczema, no a piel sana."
+ ],
+ "fuente_corta": "Fuente: Santer et al., BMJ (2018)",
+ "fuente": "Santer M. et al., BMJ 361:k1332 (2018), ensayo controlado aleatorizado pragmático BATHE sobre emolientes en el agua del baño en niños con eczema (resumen NIHR Evidence)",
+ "url_fuente": "https://evidence.nihr.ac.uk/alert/adding-emollients-to-the-bath-unlikely-to-help-children-with-eczema/",
+ "caption_ig": "¿Sabías que agregar aceites o emolientes al agua del baño no es lo que más ayuda a la piel con eczema? 🛁\n\nEl ensayo BATHE, publicado en BMJ (2018), siguió durante 12 meses a 482 niños de 1 a 11 años con eczema, en 96 consultas de Inglaterra y Gales. A un grupo se le indicó usar emolientes en el baño además del cuidado habitual, y al otro solo el cuidado habitual. En las primeras 16 semanas, el puntaje de eczema (POEM) promedió 7,5 con emolientes y 8,4 sin ellos: una diferencia ajustada de 0,41 puntos, bastante menor a los 3 puntos que se consideran relevantes.\n\nOjo: solo el 74% del grupo usó el aditivo en todos los baños, faltaron datos del 12% de los niños y pocos tenían eczema grave. El estudio habla de eczema en niños, no de piel sana ni de adultos, y los autores sugieren enfocarse en emolientes aplicados directamente sobre la piel.\n\n✨ Para cuidar tu piel:\n• Baños breves y con agua tibia\n• Seca con toques suaves\n• Si tu piel o la de tus hijos se irrita con frecuencia, consulta a un médico o dermatólogo antes de agregar productos al baño\n\nGuárdalo para tu rutina de cuidado 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que agregar emolientes al agua del baño no mejoró el eczema infantil en un gran ensayo? 🛁\n\nEl ensayo BATHE (BMJ, 2018) siguió 12 meses a 482 niños de 1 a 11 años con eczema. Entre los que usaron emolientes en el baño y los que no, el puntaje de eczema (POEM) difirió solo 0,41 puntos, menos de los 3 que se consideran relevantes.\n\nOjo: es un estudio sobre niños con eczema, no sobre piel sana, y no todos usaron el aditivo en cada baño. Si tu piel o la de tus hijos se irrita con frecuencia, consulta a un médico o dermatólogo.\n\n¿Qué haces para cuidar tu piel después del baño? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #cuidadodelapiel #pielsensible #eczema #baño #rutinadebaño #hidratacion #bienestar #autocuidado #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: la diferencia en el puntaje de eczema entre niños con y sin emolientes en el baño fue de 0,41 puntos, frente a los 3 puntos que se consideran relevantes, en el ensayo BATHE de 2018 con 482 niños."
+}

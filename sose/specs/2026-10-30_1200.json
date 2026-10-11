@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-30",
+ "slot": "1200",
+ "categoria": "Mente en calma",
+ "tema": "Mindfulness y ansiedad",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Los programas de mindfulness se asociaron a menos ansiedad, según 47 ensayos",
+ "chart": {
+  "titulo": "Reducción de ansiedad (tamaño del efecto)",
+  "subtitulo": "Revisión sistemática · JAMA Intern Med · 2014",
+  "items": [
+   {
+    "label": "A las 8 semanas",
+    "valor": 0.38,
+    "texto": "0,38"
+   },
+   {
+    "label": "A los 3–6 meses",
+    "valor": 0.22,
+    "texto": "0,22"
+   }
+  ],
+  "maximo": 0.5,
+  "nota": "Efecto pequeño a moderado. Para estrés, la evidencia fue baja."
+ },
+ "cards": [
+  [
+   "47 ensayos",
+   "con grupos\ncontrol activos"
+  ],
+  [
+   "3.515",
+   "personas\nparticipantes"
+  ],
+  [
+   "JAMA Intern. Med., 2014",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "No superó a otros tratamientos activos.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Goyal et al., JAMA Internal Medicine (2014)",
+ "fuente": "Goyal M. et al., Meditation programs for psychological stress and well-being: a systematic review and meta-analysis. JAMA Internal Medicine (2014), revisión sistemática y metaanálisis de ensayos aleatorizados",
+ "url_fuente": "https://stafforini.com/works/goyal-2014-meditation-programs-for/",
+ "caption_ig": "¿Sabías que practicar mindfulness podría acompañar una mente más tranquila? 🧘‍♀️🌿\n\nUna revisión sistemática con metaanálisis publicada en JAMA Internal Medicine (2014) analizó 47 ensayos aleatorizados con 3.515 personas que comparaban programas de meditación con grupos control activos. Para los programas de mindfulness, hubo evidencia moderada de menor ansiedad: un efecto de 0,38 a las 8 semanas y de 0,22 a los 3–6 meses (efecto pequeño a moderado). También hubo menos síntomas depresivos y dolor.\n\nOjo: para el estrés y la calidad de vida la evidencia fue baja, y la meditación no mostró ser mejor que otros tratamientos activos, como ejercicio o terapias conductuales. Es una revisión de 2014 con estudios hasta 2012 y en adultos con condiciones diversas. Es un apoyo, no un tratamiento.\n\n✨ Para probar:\n• Siéntate cómoda unos minutos y lleva la atención a tu respiración\n• Cuando la mente se vaya, vuelve con calma, sin juzgarte\n• Hazlo a la misma hora cada día\n• Si la ansiedad es intensa o persistente, habla con un profesional\n\nGuárdalo para tu rutina de calma 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que practicar mindfulness podría acompañar una mente más tranquila? 🧘‍♀️🌿\n\nUna revisión sistemática con metaanálisis publicada en JAMA Internal Medicine (2014) analizó 47 ensayos con 3.515 personas. Para los programas de mindfulness hubo evidencia moderada de menor ansiedad: efecto de 0,38 a las 8 semanas y de 0,22 a los 3–6 meses.\n\nOjo: para el estrés la evidencia fue baja y la meditación no fue mejor que otros tratamientos activos. Es un apoyo, no un tratamiento. Si la ansiedad es intensa o persistente, habla con un profesional.\n\n¿Has probado meditar? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #mindfulness #meditacion #atencionplena #mentecalma #ansiedad #estres #bienestar #autocuidado #saludmental #chile",
+ "alt": "Gráfica de SOSE con dos barras: en una revisión de 47 ensayos publicada en 2014, los programas de mindfulness se asociaron a una reducción de ansiedad con tamaño de efecto 0,38 a las 8 semanas y 0,22 a los 3 a 6 meses."
+}

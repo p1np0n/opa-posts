@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-17",
+ "slot": "1200",
+ "categoria": "Sueño y descanso",
+ "tema": "Horario regular de sueño",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Un horario de sueño regular se asoció a menor mortalidad en 60.977 adultos",
+ "chart": {
+  "titulo": "Menor riesgo de muerte por cualquier causa",
+  "subtitulo": "Estudio de cohorte · Sleep 2024",
+  "items": [
+   {
+    "label": "Reducción mínima",
+    "valor": 20,
+    "texto": "20%"
+   },
+   {
+    "label": "Reducción máxima",
+    "valor": 48,
+    "texto": "48%"
+   }
+  ],
+  "maximo": 50,
+  "nota": "Rango entre los 4 grupos más regulares vs. el menos regular. Observacional."
+ },
+ "cards": [
+  [
+   "60.977",
+   "adultos de\nUK Biobank"
+  ],
+  [
+   "1.859",
+   "muertes en\n6,3 años de seguimiento"
+  ],
+  [
+   "Sleep, 2024",
+   "estudio de\ncohorte"
+  ]
+ ],
+ "explicacion": [
+  "Es una asociación: no prueba que regularizar el sueño reduzca el riesgo.",
+  "Edad media de las personas: 62,8 años."
+ ],
+ "fuente_corta": "Fuente: Windred et al., Sleep (2024)",
+ "fuente": "Windred D.P. et al., Sleep 47(1):zsad253 (2024), \"Sleep regularity is a stronger predictor of mortality risk than sleep duration\", estudio de cohorte prospectivo",
+ "url_fuente": "https://doi.org/10.1093/sleep/zsad253",
+ "caption_ig": "¿Sabías que dormir y despertar a horas parecidas podría importar tanto como cuántas horas duermes? ⏰🌙\n\nUn estudio de cohorte publicado en Sleep (2024) siguió a 60.977 adultos del UK Biobank, con más de 10 millones de horas de datos de acelerómetro. Comparados con el grupo con horarios menos regulares, los 4 grupos más regulares tuvieron entre 20% y 48% menos riesgo de morir por cualquier causa durante un seguimiento promedio de 6,3 años (1.859 muertes). La regularidad predijo mejor la mortalidad que la duración del sueño.\n\nOjo: es un estudio observacional, así que muestra una asociación, no que cambiar tu horario reduzca el riesgo. La edad media era de 62,8 años y los resultados pueden no aplicar igual a otras edades o países.\n\n✨ Para probar en tu rutina:\n• Una hora de acostarte y de levantarte parecida cada día\n• Luces bajas y celular lejos en la noche\n• Un cierre tranquilo antes de dormir\n• Si duermes mal seguido, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que dormir y despertar a horas parecidas podría importar tanto como cuántas horas duermes? ⏰🌙\n\nUn estudio publicado en Sleep (2024) siguió a 60.977 adultos del UK Biobank: los 4 grupos con horarios más regulares tuvieron entre 20% y 48% menos riesgo de morir por cualquier causa que el grupo menos regular (1.859 muertes en 6,3 años de seguimiento promedio).\n\nOjo: es observacional, muestra una asociación y no prueba que cambiar tu horario reduzca el riesgo. Si duermes mal seguido, habla con un profesional.\n\n¿Te acuestas a la misma hora cada día? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #dormirmejor #sueño #horariodesueño #rutinanocturna #higienedelsueño #bienestar #autocuidado #descanso #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un estudio de 60.977 adultos publicado en Sleep en 2024, quienes tenían horarios de sueño más regulares tuvieron entre 20% y 48% menos riesgo de muerte por cualquier causa que el grupo menos regular."
+}

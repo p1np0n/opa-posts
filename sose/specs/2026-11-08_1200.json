@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-08",
+ "slot": "1200",
+ "categoria": "Hidroterapia",
+ "tema": "Calor corporal total y síntomas depresivos",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Calor corporal total en una sesión redujo síntomas depresivos vs. placebo en 29 adultos",
+ "chart": {
+  "titulo": "Diferencia vs. placebo en escala de depresión (HAM-D), puntos",
+  "subtitulo": "Ensayo aleatorizado · JAMA Psychiatry · 2016",
+  "items": [
+   {
+    "label": "Semana 1",
+    "valor": 6.53,
+    "texto": "−6,5"
+   },
+   {
+    "label": "Semana 6",
+    "valor": 4.27,
+    "texto": "−4,3"
+   }
+  ],
+  "maximo": 8,
+  "nota": "Estudio pequeño, en un centro médico. No es una sauna ni un baño caliente."
+ },
+ "cards": [
+  [
+   "29 adultos",
+   "con depresión mayor,\nsin medicamentos"
+  ],
+  [
+   "1 sesión",
+   "de hipertermia\nvs. sesión simulada"
+  ],
+  [
+   "JAMA Psychiatry, 2016",
+   "revista científica\ndel ensayo"
+  ]
+ ],
+ "explicacion": [
+  "Los autores piden estudios más grandes.",
+  "No sustituye un tratamiento: consulta a un profesional."
+ ],
+ "fuente_corta": "Fuente: JAMA Psychiatry (2016)",
+ "fuente": "JAMA Psychiatry 73(8):789-795 (2016), \"Whole-Body Hyperthermia for the Treatment of Major Depressive Disorder: A Randomized Clinical Trial\"",
+ "url_fuente": "https://pubmed.ncbi.nlm.nih.gov/27172277/",
+ "caption_ig": "¿Sabías que el calor en todo el cuerpo se ha estudiado en la ciencia, más allá del bienestar cotidiano? 🌡️\n\nUn ensayo aleatorizado doble ciego publicado en JAMA Psychiatry (2016) asignó a adultos con depresión mayor, sin medicamentos, a una sola sesión de hipertermia corporal total o a una sesión simulada sin calor intenso. Se analizaron 29 personas. Frente a la sesión simulada, el grupo con calor tuvo en la escala de depresión de Hamilton 6,5 puntos menos en la semana 1 y 4,3 puntos menos en la semana 6.\n\nOjo: fue un estudio pequeño, hecho en un centro médico con un procedimiento controlado; no es lo mismo que una sauna ni un baño caliente en casa. Además, la mayoría de ambos grupos creyó haber recibido calor, y los autores piden estudios más grandes. No es un tratamiento ni sustituye la atención de un profesional.\n\n✨ Si disfrutas del calor, hazlo con cuidado:\n• Agua tibia y por poco tiempo; si te mareas, sal del agua\n• Si tienes presión alta, problemas del corazón o estás embarazada, consulta antes a tu médico\n• Si te sientes triste o sin ánimo por semanas, habla con un profesional de salud\n\nGuárdalo para cuidarte 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que el calor en todo el cuerpo se ha estudiado como apoyo en depresión? 🌡️\n\nUn ensayo de JAMA Psychiatry (2016) comparó una sesión de hipertermia corporal total con una simulada en 29 adultos con depresión mayor: la diferencia en la escala de Hamilton fue de 6,5 puntos en la semana 1 y de 4,3 puntos en la semana 6.\n\nOjo: es un estudio pequeño y en un centro médico; no equivale a una sauna ni a un baño caliente en casa, y no sustituye un tratamiento. Si tienes presión alta, problemas del corazón o estás embarazada, consulta antes a tu médico. Si te sientes sin ánimo por semanas, habla con un profesional.\n\n¿Qué te ayuda a sentirte mejor después de un día largo? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #calor #hidroterapia #saunas #bienestar #saludmental #autocuidado #vidasana #calma #relajacion #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un ensayo de 2016 con 29 adultos con depresión, una sesión de calor corporal total redujo el puntaje de Hamilton 6,5 puntos más que la sesión simulada en la semana 1 y 4,3 puntos más en la semana 6."
+}

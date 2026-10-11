@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-25",
+ "slot": "1200",
+ "categoria": "Mente en calma",
+ "tema": "Pausa de redes sociales",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Una semana sin redes sociales se asoció a menos depresión y ansiedad",
+ "chart": {
+  "titulo": "Diferencia frente al grupo control, puntos",
+  "subtitulo": "Ensayo aleatorizado · 2022",
+  "items": [
+   {
+    "label": "Depresión",
+    "valor": 2.2,
+    "texto": "−2,2"
+   },
+   {
+    "label": "Ansiedad",
+    "valor": 1.7,
+    "texto": "−1,7"
+   }
+  ],
+  "maximo": 3,
+  "nota": "Menos es mejor. Un solo estudio; seguimiento de 1 semana."
+ },
+ "cards": [
+  [
+   "154",
+   "adultos\nparticipantes"
+  ],
+  [
+   "1 semana",
+   "sin 4 redes\nsociales"
+  ],
+  [
+   "Cyberpsychol., 2022",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "Solo se midió después de 1 semana.",
+  "Faltan estudios más largos."
+ ],
+ "fuente_corta": "Fuente: Lambert et al., Cyberpsychology, Behavior, and Social Networking (2022)",
+ "fuente": "Lambert J. et al., Taking a One-Week Break from Social Media Improves Well-Being, Depression, and Anxiety: A Randomized Controlled Trial. Cyberpsychology, Behavior, and Social Networking 25(5):287-293 (2022)",
+ "url_fuente": "https://researchportal.bath.ac.uk/en/publications/taking-a-one-week-break-from-social-media-improves-well-being-dep/",
+ "caption_ig": "¿Sabías que descansar una semana de las redes sociales podría acompañar tu calma? 📵🌿\n\nUn ensayo aleatorizado publicado en Cyberpsychology, Behavior, and Social Networking (2022) asignó al azar a 154 adultos (edad media 29,6 años) a dejar Facebook, Instagram, Twitter y TikTok por una semana o a seguir como siempre. Tras la semana, el grupo sin redes tuvo 2,2 puntos menos de depresión (IC 95 %: 1,1 a 3,3) y 1,7 puntos menos de ansiedad (IC 95 %: 0,6 a 2,8), y mayor bienestar, frente al grupo control.\n\nOjo: es un solo estudio, el seguimiento fue de solo una semana y los propios autores piden investigar en poblaciones clínicas y por más tiempo. No sabemos si el efecto se mantiene.\n\n✨ Para probar:\n• Elige un rato del día sin redes (por ejemplo, antes de dormir)\n• Silencia notificaciones por unas horas\n• Reemplázalo por algo tranquilo: leer, caminar, una infusión\n• Si el ánimo bajo o la ansiedad se mantienen, habla con un profesional\n\nGuárdalo para tu próximo descanso digital 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que descansar una semana de las redes sociales podría acompañar tu calma? 📵🌿\n\nUn ensayo aleatorizado publicado en Cyberpsychology, Behavior, and Social Networking (2022) asignó al azar a 154 adultos a dejar Facebook, Instagram, Twitter y TikTok por una semana o a seguir como siempre. El grupo sin redes tuvo 2,2 puntos menos de depresión y 1,7 puntos menos de ansiedad, y mayor bienestar, frente al grupo control.\n\nOjo: es un solo estudio con seguimiento de solo una semana; no sabemos si el efecto se mantiene. Es un apoyo, no un tratamiento. Si el ánimo bajo o la ansiedad se mantienen, habla con un profesional.\n\n¿Te animarías a un descanso digital? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #desconexiondigital #redessociales #detoxdigital #mentecalma #ansiedad #bienestar #autocuidado #saludmental #calma #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un ensayo aleatorizado de 2022 con 154 adultos, una semana sin redes sociales se asoció a 2,2 puntos menos de depresión y 1,7 puntos menos de ansiedad frente al grupo control."
+}

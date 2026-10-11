@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-15",
+ "slot": "1200",
+ "categoria": "Mente en calma",
+ "tema": "Gratitud y estado de ánimo",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Practicar gratitud se asoció a menos ansiedad y depresión, según 33 ensayos",
+ "chart": {
+  "titulo": "Cambio frente al grupo control, puntos de cuestionario",
+  "subtitulo": "Metaanálisis de ensayos · 2023",
+  "items": [
+   {
+    "label": "Ansiedad (GAD-7)",
+    "valor": 1.63,
+    "texto": "−1,6"
+   },
+   {
+    "label": "Depresión (PHQ-9)",
+    "valor": 1.86,
+    "texto": "−1,9"
+   }
+  ],
+  "maximo": 3,
+  "nota": "Menos es mejor. Evidencia de certeza baja; efecto pequeño."
+ },
+ "cards": [
+  [
+   "33 ensayos",
+   "en el\nmetaanálisis"
+  ],
+  [
+   "64 ensayos",
+   "en la revisión\nsistemática"
+  ],
+  [
+   "Einstein, 2023",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "La mayoría de los estudios tenía alto riesgo de sesgo.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Einstein (São Paulo), revisión sistemática y metaanálisis (2023)",
+ "fuente": "The effects of gratitude interventions: a systematic review and meta-analysis. Einstein (São Paulo) 21:eRW0371 (2023), revisión sistemática y metaanálisis de ensayos aleatorizados",
+ "url_fuente": "https://www.scielo.br/j/eins/a/m8kqK5vgZ9wb4DxRtD877bd/",
+ "caption_ig": "¿Sabías que anotar lo que agradeces podría acompañar tu calma? 📝🤍\n\nUna revisión sistemática con metaanálisis publicada en Einstein (São Paulo, 2023) revisó 64 ensayos clínicos con intervenciones de gratitud (33 entraron al metaanálisis). En los estudios que midieron síntomas, quienes practicaron gratitud tuvieron en promedio 1,63 puntos menos en el cuestionario de ansiedad GAD-7 (3 estudios, 579 personas) y 1,86 puntos menos en el de depresión PHQ-9 (3 estudios, 525 personas).\n\nOjo: la certeza de la evidencia fue baja, la mayoría de los estudios tenía alto riesgo de sesgo, los métodos variaron mucho y los autores describen el efecto como pequeño frente al de los medicamentos. Es un apoyo para tu día, no un tratamiento.\n\n✨ Para probar:\n• Anota 3 cosas buenas del día antes de dormir\n• Escríbelas a mano, en pocas líneas\n• Hazlo a la misma hora para que sea un hábito\n• Si sientes ansiedad o ánimo bajo por varias semanas, habla con un profesional\n\nGuárdalo para tu rutina de la noche 🌿\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que anotar lo que agradeces podría acompañar tu calma? 📝🤍\n\nUna revisión sistemática con metaanálisis publicada en Einstein (São Paulo, 2023) revisó 64 ensayos clínicos de gratitud (33 en el metaanálisis). Quienes la practicaron tuvieron en promedio 1,63 puntos menos en el cuestionario de ansiedad GAD-7 (3 estudios, 579 personas) y 1,86 puntos menos en el de depresión PHQ-9 (3 estudios, 525 personas).\n\nOjo: la certeza de la evidencia fue baja, la mayoría de los estudios tenía alto riesgo de sesgo y el efecto es pequeño. Es un apoyo, no un tratamiento. Si sientes ansiedad o ánimo bajo por varias semanas, habla con un profesional.\n\n¿Qué cosa buena te pasó hoy? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #gratitud #journaling #escribir #mentecalma #estres #ansiedad #bienestar #autocuidado #saludmental #chile",
+ "alt": "Gráfica de SOSE con dos barras: en una revisión de ensayos publicada en 2023, la gratitud se asoció a 1,6 puntos menos de ansiedad (GAD-7) y 1,9 puntos menos de depresión (PHQ-9) frente a los grupos control."
+}

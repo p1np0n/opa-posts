@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-11-05",
+ "slot": "1200",
+ "categoria": "Aromas",
+ "tema": "Jazmín y ansiedad dental infantil",
+ "kicker": "¿Sabías que…?",
+ "titulo": "El aroma de jazmín se asoció a menos ansiedad dental en niños, en un ensayo con 56",
+ "chart": {
+  "titulo": "Puntaje de ansiedad dental (MCDAS), menos es mejor",
+  "subtitulo": "Ensayo aleatorizado · Frontiers in Dentistry · 2024",
+  "items": [
+   {
+    "label": "Con aroma de jazmín",
+    "valor": 9.86,
+    "texto": "9,9"
+   },
+   {
+    "label": "Con agua (control)",
+    "valor": 11.89,
+    "texto": "11,9"
+   }
+  ],
+  "maximo": 15,
+  "nota": "Muestra pequeña, ansiedad medida con cuestionario y adultos que sabían qué grupo era cuál."
+ },
+ "cards": [
+  [
+   "56 niños",
+   "de 7 a 12 años\ncon tratamiento dental"
+  ],
+  [
+   "15 minutos",
+   "de aroma difundido\nantes del tratamiento"
+  ],
+  [
+   "Front. Dent., 2024",
+   "revista\ncientífica"
+  ]
+ ],
+ "explicacion": [
+  "También reportaron menos dolor, pero la frecuencia cardíaca no cambió.",
+  "Es un apoyo, no un tratamiento."
+ ],
+ "fuente_corta": "Fuente: Jafarzadeh Samani et al., Frontiers in Dentistry (2024)",
+ "fuente": "Jafarzadeh Samani M. et al., Frontiers in Dentistry 21:39 (2024), \"Anxiolytic Effect of Jasmine Aromatherapy in Pediatric Dental Procedures\", ensayo aleatorizado controlado con placebo",
+ "url_fuente": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11586644/",
+ "hashtags": "#sose #elartedeestarenpaz #jazmin #aromas #aromaterapia #ansiedad #dentista #familia #bienestar #calma #autocuidado #chile",
+ "alt": "Gráfica de SOSE con dos barras: puntaje de ansiedad dental de 9,9 en niños con aroma de jazmín y 11,9 con agua, en un ensayo aleatorizado de 2024 con 56 niños de 7 a 12 años.",
+ "caption_ig": "¿Sabías que un aroma podría acompañar a los niños en la consulta dental? 🌸🦷\n\nUn ensayo aleatorizado publicado en Frontiers in Dentistry (2024) incluyó a 56 niños de 7 a 12 años que necesitaban un tratamiento dental con anestesia. Un grupo respiró aroma de jazmín difundido durante 15 minutos y el otro, agua. El grupo con jazmín tuvo un puntaje de ansiedad dental de 9,86, contra 11,89 del grupo con agua (menos es mejor). También reportó menos dolor (0,79 contra 3,07 en una escala visual). La frecuencia cardíaca y la saturación de oxígeno no cambiaron.\n\nOjo: son solo 56 niños cooperadores, el estudio fue pequeño, todo se midió con cuestionarios y el equipo de atención sabía qué grupo era cuál (el aroma se nota). Es un apoyo, no un tratamiento.\n\n✨ Para tener en cuenta:\n• Si tu hijo o hija tiene alergias o asma, consulta antes de usar aromas\n• Evita usar esencias cerca de bebés y mascotas\n• Habla con el dentista sobre el miedo al tratamiento\n\nGuárdalo para tu próxima visita 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que un aroma podría acompañar a los niños en la consulta dental? 🌸🦷\n\nUn ensayo de 2024 (Frontiers in Dentistry) con 56 niños de 7 a 12 años comparó 15 minutos de aroma de jazmín con agua. El grupo con jazmín tuvo un puntaje de ansiedad dental de 9,86 contra 11,89 con agua (menos es mejor) y reportó menos dolor.\n\nOjo: muestra pequeña, medidas con cuestionarios y el equipo sabía qué grupo era cuál. Es un apoyo, no un tratamiento. Si tu hijo o hija tiene alergias o asma, consulta antes de usar aromas.\n\n¿Qué le ayuda a tu familia a estar tranquila en el dentista? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud."
+}
