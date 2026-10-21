@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-22",
+ "slot": "2100",
+ "categoria": "Aromas",
+ "tema": "Aromas cítricos y ansiedad",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Los aromas cítricos inhalados se asociaron a menos ansiedad, según 44 ensayos",
+ "chart": {
+  "titulo": "Reducción de la ansiedad del momento vs. control",
+  "subtitulo": "Metaanálisis en red · puntos de escala · 2023",
+  "items": [
+   {
+    "label": "Cítricos (Citrus aurantium)",
+    "valor": 9.62,
+    "texto": "9,6"
+   },
+   {
+    "label": "Lavanda",
+    "valor": 5.41,
+    "texto": "5,4"
+   }
+  ],
+  "maximo": 12,
+  "nota": "Certeza de la evidencia baja o muy baja y resultados muy variables entre estudios."
+ },
+ "cards": [
+  [
+   "44 ensayos",
+   "aleatorizados"
+  ],
+  [
+   "3.419",
+   "adultos\ninhalando aromas"
+  ],
+  [
+   "Frontiers, 2023",
+   "metaanálisis\nen red"
+  ]
+ ],
+ "explicacion": [
+  "La ansiedad se midió con una escala de ansiedad-estado.",
+  "La mayoría de los ensayos tenía riesgo de sesgo alto o poco claro."
+ ],
+ "fuente_corta": "Fuente: Tan et al., Front. Public Health (2023)",
+ "fuente": "Tan L. et al., Frontiers in Public Health 11:1144404 (2023), \"Essential oils for treating anxiety: a systematic review of randomized controlled trials and network meta-analysis\"",
+ "url_fuente": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1144404/full",
+ "caption_ig": "¿Sabías que el aroma de los cítricos se ha estudiado en la ansiedad? 🍊🌿\n\nUn metaanálisis en red publicado en Frontiers in Public Health (2023) reunió 44 ensayos aleatorizados con 3.419 adultos que inhalaron aceites esenciales. En la ansiedad del momento, los aromas del grupo Citrus aurantium (como la naranja amarga) se asociaron a una reducción promedio de 9,6 puntos en la escala frente al grupo control, y la lavanda a una de 5,4 puntos.\n\nOjo: la certeza de la evidencia fue baja o muy baja y los resultados varían mucho entre estudios. 17 de los 44 ensayos tenían riesgo de sesgo alto y 33 se hicieron en Irán. No hay dosis ni tiempos claros, y al no reportarse efectos adversos no se pudo comparar su seguridad. Un aroma no reemplaza un tratamiento.\n\n✨ Para probar con calma:\n• Elige un aroma que te guste y ventila el espacio\n• Usa poca cantidad y evita ponerlo directo sobre la piel\n• Si tienes asma, estás embarazada o tu ansiedad es frecuente, consulta antes a un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que el aroma de los cítricos se ha estudiado en la ansiedad? 🍊🌿\n\nUn metaanálisis en red (Frontiers in Public Health, 2023) reunió 44 ensayos con 3.419 adultos que inhalaron aceites esenciales. En la ansiedad del momento, los cítricos del grupo Citrus aurantium se asociaron a una reducción promedio de 9,6 puntos frente al grupo control, y la lavanda a 5,4.\n\nOjo: la certeza de la evidencia fue baja o muy baja y los resultados varían mucho entre estudios. Si tu ansiedad es frecuente, estás embarazada o tienes asma, consulta antes a un profesional.\n\n¿Qué aroma te acompaña en la noche? Cuéntanos 👇\n\nsose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #aromas #aromaterapia #cítricos #naranja #ansiedad #calma #relajación #bienestar #autocuidado #rutinadenoche #vidasana #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un metaanálisis en red de 44 ensayos con 3.419 adultos (Frontiers in Public Health, 2023), los aromas cítricos se asociaron a una reducción de 9,6 puntos en la ansiedad del momento y la lavanda a 5,4 puntos."
+}
