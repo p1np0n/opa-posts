@@ -1,0 +1,51 @@
+{
+ "fecha": "2026-10-23",
+ "slot": "2100",
+ "categoria": "Hidroterapia",
+ "tema": "Baño caliente y presión arterial en adultos mayores",
+ "kicker": "¿Sabías que…?",
+ "titulo": "Un baño muy caliente se asoció a más presión arterial en adultos mayores",
+ "chart": {
+  "titulo": "Presión sistólica durante el baño (mmHg)",
+  "subtitulo": "Estudio HEIJO-KYO · 2024",
+  "items": [
+   {
+    "label": "Ducha o baño tibio",
+    "valor": 123.6,
+    "texto": "123,6"
+   },
+   {
+    "label": "Baño de agua caliente",
+    "valor": 127.0,
+    "texto": "127,0"
+   }
+  ],
+  "maximo": 140,
+  "nota": "Diferencia de 3,4 mmHg (IC 95 %: 0,4 a 6,4). Estudio observacional."
+ },
+ "cards": [
+  [
+   "1.479",
+   "adultos de\n40 a 90 años"
+  ],
+  [
+   "68 años",
+   "edad mediana"
+  ],
+  [
+   "Transversal",
+   "estudio\nobservacional"
+  ]
+ ],
+ "explicacion": [
+  "Por cada 1 °C de piel sobre 36 °C, la sistólica subió 2,4 mmHg.",
+  "No se midió la temperatura del agua de la tina."
+ ],
+ "fuente_corta": "Fuente: Tai et al., Environ Health Prev Med (2024)",
+ "fuente": "Tai Y. et al., Environmental Health and Preventive Medicine 29:12 (2024), \"Blood pressure, pulse rate, and skin temperature during hot-water bathing in real-world settings among community-dwelling older adults: the HEIJO-KYO Study\", estudio transversal",
+ "url_fuente": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10937243/",
+ "caption_ig": "¿Sabías que la temperatura del baño también se ha estudiado en relación con la presión arterial? 🛁🌡️\n\nUn estudio publicado en Environmental Health and Preventive Medicine (2024) siguió a 1.479 adultos japoneses de 40 a 90 años (edad mediana: 68) durante 24 horas en sus casas. Durante el baño, la presión sistólica promedió 127,0 mmHg con baño de agua caliente y 123,6 mmHg con ducha o baño tibio: una diferencia de 3,4 mmHg. Además, por cada 1 °C que la piel del abdomen superaba los 36 °C, la sistólica fue 2,4 mmHg más alta.\n\nOjo: es un estudio observacional transversal, sin selección al azar. No midió la temperatura del agua, la presión se registró cada 15 minutos y no se observaron eventos cardiovasculares. Muestra una asociación, no una causa.\n\n✨ Para tener en cuenta:\n• Un baño tibio es más suave que uno muy caliente\n• Levántate con calma al salir de la tina\n• Si tienes presión alta, problemas del corazón o eres adulto mayor, consulta a tu médico sobre la temperatura y la duración del baño\n\nGuárdalo para tu rutina 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que la temperatura del baño también se ha estudiado en relación con la presión arterial? 🛁🌡️\n\nUn estudio de 2024 (Environmental Health and Preventive Medicine) con 1.479 adultos japoneses de 40 a 90 años encontró que, durante el baño, la presión sistólica fue 3,4 mmHg mayor con agua caliente (127,0 mmHg) que con ducha o baño tibio (123,6 mmHg).\n\nOjo: es un estudio observacional y no midió la temperatura del agua. Si tienes presión alta, problemas del corazón o eres adulto mayor, consulta a tu médico.\n\n¿Cómo te gusta el agua de tu baño? Cuéntanos 👇\n\nsose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #baño #hidroterapia #presiónarterial #aguatibia #autocuidado #bienestar #rutina #vidasana #salud #chile",
+ "alt": "Gráfica de SOSE con dos barras: en un estudio con 1.479 adultos de 40 a 90 años (2024), la presión sistólica durante el baño fue 123,6 mmHg con ducha o baño tibio y 127,0 mmHg con baño de agua caliente."
+}
