@@ -38,7 +38,34 @@ def wrap_px(d, text, f, maxw):
     return lines
 
 
+def render_simple(spec, out_jpg):
+    """Formato simple: logo + kicker + una frase corta. Sin graficas, tarjetas ni fuentes."""
+    img = Image.new("RGB", (W, H), MARFIL); d = ImageDraw.Draw(img)
+    logo = Image.open(os.path.join(SOSE, "assets", "SOSE_lockup_horizontal.png")).convert("RGB")
+    diff = ImageChops.difference(logo, Image.new("RGB", logo.size, MARFIL)).point(lambda p: 255 if p > 40 else 0).convert("L")
+    b = diff.crop((20, 20, logo.width - 20, logo.height - 20)).getbbox()
+    logo = logo.crop((b[0] + 20, b[1] + 20, b[2] + 20, b[3] + 20))
+    lw = 360; logo = logo.resize((lw, int(logo.height * lw / logo.width)), Image.LANCZOS)
+    img.paste(logo, ((W - lw) // 2, 90))
+    kf = font(LORA, 76, "SemiBold"); center(d, spec["kicker"], 330, kf, ARCILLA)
+    d.line((W / 2 - 50, 450, W / 2 + 50, 450), fill=SALVIA, width=4)
+    size = 62
+    while True:
+        hf = font(LORA, size, "Medium"); lines = wrap_px(d, spec["texto"], hf, 840)
+        if len(lines) <= 7 or size <= 40: break
+        size -= 2
+    lh = int(size * 1.4); total = lh * len(lines)
+    y = 500 + (700 - total) / 2
+    for ln in lines:
+        center(d, ln, y, hf, TINTA); y += lh
+    d.line((W / 2 - 40, 1262, W / 2 + 40, 1262), fill=ARCILLA, width=3)
+    center(d, "sose · el arte de estar en paz", 1280, font(LORAI, 26, "Italic"), TINTA)
+    img.save(out_jpg, "JPEG", quality=92, optimize=True)
+
+
 def render(spec, out_jpg):
+    if spec.get("formato") == "simple":
+        return render_simple(spec, out_jpg)
     img = Image.new("RGB", (W, H), MARFIL); d = ImageDraw.Draw(img)
     logo = Image.open(os.path.join(SOSE, "assets", "SOSE_lockup_horizontal.png")).convert("RGB")
     diff = ImageChops.difference(logo, Image.new("RGB", logo.size, MARFIL)).point(lambda p: 255 if p > 40 else 0).convert("L")
@@ -110,7 +137,7 @@ def main(path):
     rows = list(csv.DictReader(open(csvp, encoding="utf-8-sig"))) if os.path.exists(csvp) else []
     rows = [r for r in rows if not (r.get("fecha") == spec["fecha"] and r.get("slot") == spec["slot"])]
     rows.append({"fecha": spec["fecha"], "slot": spec["slot"], "categoria": spec["categoria"], "tema": spec["tema"], "titulo": spec["titulo"],
-                 "dato_clave": " · ".join(c[0] for c in spec["cards"]), "caption_instagram": spec["caption_ig"], "caption_facebook": spec["caption_fb"],
+                 "dato_clave": spec["texto"] if spec.get("formato") == "simple" else " · ".join(c[0] for c in spec["cards"]), "caption_instagram": spec["caption_ig"], "caption_facebook": spec["caption_fb"],
                  "hashtags": spec["hashtags"], "texto_alternativo": spec["alt"], "fuente": spec["fuente"], "url_fuente": spec["url_fuente"],
                  "archivo_grafica": base + ".jpg", "estado": "programado"})
     with open(csvp, "w", newline="", encoding="utf-8-sig") as f:
