@@ -1,51 +1,16 @@
 {
+ "formato": "simple",
  "fecha": "2026-10-26",
  "slot": "1200",
- "categoria": "Aromas",
- "tema": "Romero, atención y cálculo",
+ "categoria": "Hábitos simples",
+ "tema": "Abrir la ventana unos minutos por la mañana",
  "kicker": "¿Sabías que…?",
- "titulo": "El aroma de romero se asoció a mejor desempeño mental en un estudio con 20 personas",
- "chart": {
-  "titulo": "Correlaciones (r) entre aroma y desempeño",
-  "subtitulo": "Estudio correlacional · 2012",
-  "items": [
-   {
-    "label": "Tiempo de aroma y 1,8-cineol en sangre",
-    "valor": 0.73,
-    "texto": "0,73"
-   },
-   {
-    "label": "1,8-cineol y restas correctas",
-    "valor": 0.47,
-    "texto": "0,47"
-   }
-  ],
-  "maximo": 1,
-  "nota": "Correlación no es causa: muestra pequeña y sin grupo control con placebo."
- },
- "cards": [
-  [
-   "20 personas",
-   "voluntarias\nsanas"
-  ],
-  [
-   "4 a 10 min",
-   "de exposición\nal aroma"
-  ],
-  [
-   "Psychopharmacol., 2012",
-   "revista\ncientífica"
-  ]
- ],
- "explicacion": [
-  "Más 1,8-cineol en sangre se asoció a más aciertos y respuestas más rápidas.",
-  "Es una pista, no una prueba."
- ],
- "fuente_corta": "Fuente: Moss y Oliver, Therapeutic Advances in Psychopharmacology (2012)",
- "fuente": "Moss M. y Oliver L., Therapeutic Advances in Psychopharmacology 2(3):103-113 (2012), \"Plasma 1,8-cineole correlates with cognitive performance following exposure to rosemary essential oil aroma\"",
- "url_fuente": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3736918/",
- "hashtags": "#sose #elartedeestarenpaz #romero #aromas #aromaterapia #concentracion #foco #bienestar #autocuidado #plantas #vidasana #chile",
- "alt": "Gráfica de SOSE con dos barras: correlación de 0,73 entre el tiempo de exposición al aroma de romero y el 1,8-cineol en sangre, y de 0,47 entre ese compuesto y las restas correctas, en un estudio de 2012 con 20 personas.",
- "caption_ig": "¿Sabías que el aroma de romero ha sido estudiado por su relación con la concentración? 🌿🧠\n\nEn un estudio publicado en Therapeutic Advances in Psychopharmacology (2012), 20 voluntarios sanos respiraron aroma de romero durante 4, 6, 8 o 10 minutos y luego hicieron tareas de cálculo y atención. Cuanto más tiempo de exposición, más 1,8-cineol (un compuesto del romero) apareció en la sangre (r = 0,73). Y más 1,8-cineol se asoció a más respuestas correctas y más rápidas en las restas de 3 (r = 0,47) y a respuestas más rápidas en las otras tareas.\n\nOjo: son solo 20 personas, es un estudio de correlaciones (muestra asociación, no causa) y no tuvo un grupo comparado con placebo. En el ánimo, una mayor cantidad de 1,8-cineol se asoció a menor sensación de contento. Es una pista interesante, no una prueba.\n\n✨ Para tener en cuenta:\n• Si tienes alergias, asma o epilepsia, estás embarazada o tienes mascotas (algunos aceites esenciales son tóxicos para perros y gatos), consulta antes\n• Ventila el espacio y no apliques esencias puras sobre la piel\n\nGuárdalo para tu rincón de estudio o trabajo 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
- "caption_fb": "¿Sabías que el aroma de romero ha sido estudiado por su relación con la concentración? 🌿🧠\n\nEn un estudio de 2012 (Therapeutic Advances in Psychopharmacology), 20 voluntarios sanos respiraron aroma de romero entre 4 y 10 minutos. Más tiempo de exposición se asoció a más 1,8-cineol en sangre (r = 0,73), y más 1,8-cineol a más aciertos en restas de 3 (r = 0,47).\n\nOjo: solo 20 personas, correlaciones (no prueban causa) y sin placebo. Es una pista, no una prueba. Si tienes alergias, asma o epilepsia, estás embarazada o tienes mascotas, consulta antes.\n\n¿Qué aroma te acompaña cuando necesitas concentrarte? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud."
+ "titulo": "Abrir la ventana unos minutos al despertar puede ser una forma suave de empezar el día.",
+ "texto": "Abrir la ventana unos minutos al despertar puede ser una forma suave de empezar el día.",
+ "fuente": "",
+ "url_fuente": "",
+ "caption_ig": "¿Sabías que abrir la ventana unos minutos al despertar puede ser una forma suave de empezar el día? 🌤️\n\nAire fresco, un poco de luz y una respiración profunda antes de mirar el celular. Muchas personas lo usan como un pequeño ritual para sentirse más presentes desde temprano.\n\nUna idea para probar mañana: abre la ventana, estírate y respira lento tres veces. Si hace mucho frío o tienes alergias o asma, ajusta el tiempo a lo que te acomode.\n\n¿Cuál es tu primer gesto de la mañana? Cuéntanos en los comentarios 👇\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que abrir la ventana unos minutos al despertar puede ser una forma suave de empezar el día? 🌤️\n\nAire fresco, un poco de luz y tres respiraciones lentas. Si tienes alergias o asma, ajusta el tiempo a lo que te acomode.\n\n¿Cuál es tu primer gesto de la mañana? Cuéntanos 👇\n\nsose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #rutinadelamañana #airefresco #respiración #calma #hábitossimples #bienestar #autocuidado #pausa #chile",
+ "alt": "Gráfica de SOSE con el texto: ¿Sabías que…? Abrir la ventana unos minutos al despertar puede ser una forma suave de empezar el día."
 }
