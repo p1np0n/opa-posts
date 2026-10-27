@@ -1,51 +1,16 @@
 {
+ "formato": "simple",
  "fecha": "2026-10-27",
  "slot": "1200",
- "categoria": "Sueño y descanso",
- "tema": "Pantallas al acostarse",
+ "categoria": "Respiración",
+ "tema": "Tres respiraciones lentas antes de comer",
  "kicker": "¿Sabías que…?",
- "titulo": "Usar pantallas en la cama se asoció a dormir menos en niños y adolescentes",
- "chart": {
-  "titulo": "Probabilidad con uso de pantalla al acostarse (OR)",
-  "subtitulo": "Metaanálisis · JAMA Pediatrics 2016",
-  "items": [
-   {
-    "label": "Dormir muy poco",
-    "valor": 2.17,
-    "texto": "OR 2,17"
-   },
-   {
-    "label": "Somnolencia de día",
-    "valor": 2.72,
-    "texto": "OR 2,72"
-   }
-  ],
-  "maximo": 3,
-  "nota": "OR: razón de probabilidades; 1 = sin diferencia. Todos los estudios eran transversales."
- },
- "cards": [
-  [
-   "20 estudios",
-   "todos\ntransversales"
-  ],
-  [
-   "125.198",
-   "niños y adolescentes\nde 6 a 19 años"
-  ],
-  [
-   "JAMA Pediatrics, 2016",
-   "revisión sistemática\ny metaanálisis"
-  ]
- ],
- "explicacion": [
-  "Es una asociación: no prueba que la pantalla cause el menor sueño.",
-  "Los resultados variaron mucho entre estudios y no incluye adultos."
- ],
- "fuente_corta": "Fuente: Carter et al., JAMA Pediatrics (2016)",
- "fuente": "Carter B. et al., JAMA Pediatrics 170(12):1202-1208 (2016), \"Association between portable screen-based media device access or use and sleep outcomes\", revisión sistemática y metaanálisis",
- "url_fuente": "https://orca.cardiff.ac.uk/id/eprint/91557/",
- "caption_ig": "¿Sabías que el celular en la cama podría estar robándole sueño a niños y adolescentes? 📱🌙\n\nUna revisión sistemática con metaanálisis publicada en JAMA Pediatrics (2016) reunió 20 estudios con 125.198 niños y adolescentes de 6 a 19 años. Usar un dispositivo con pantalla al acostarse se asoció con más probabilidad de dormir muy poco (OR 2,17), de tener mala calidad de sueño (OR 1,46) y de somnolencia de día (OR 2,72). Solo tener el dispositivo cerca, sin usarlo, también se asoció a dormir menos (OR 1,79).\n\nOjo: todos los estudios eran transversales, es decir, muestran asociaciones y no causa y efecto, y los resultados variaron mucho entre estudios. No incluye adultos ni distingue si el problema es la luz, el contenido o el tiempo que se pierde.\n\n✨ Ideas para la casa:\n• Dejar los dispositivos fuera del dormitorio durante la noche\n• Una rutina tranquila antes de dormir\n• Luces bajas y horarios parecidos\n• Si el sueño es un problema persistente, consultar a un profesional\n\nGuárdalo para tu rutina de la noche 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
- "caption_fb": "¿Sabías que el celular en la cama podría estar robándole sueño a niños y adolescentes? 📱🌙\n\nUna revisión con metaanálisis (JAMA Pediatrics, 2016) reunió 20 estudios con 125.198 niños y adolescentes: usar una pantalla al acostarse se asoció con más probabilidad de dormir muy poco (OR 2,17) y de somnolencia de día (OR 2,72).\n\nOjo: todos los estudios eran transversales, así que muestran asociación y no causa, y no incluye adultos. Si el sueño es un problema persistente, consulta a un profesional.\n\n¿Dónde duerme el celular en tu casa? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
- "hashtags": "#sose #elartedeestarenpaz #pantallas #sueño #dormirmejor #adolescentes #rutinanocturna #bienestar #crianza #descanso #vidasana #chile",
- "alt": "Gráfica de SOSE con dos barras: en una revisión de 20 estudios con 125.198 niños y adolescentes publicada en 2016, usar pantallas al acostarse se asoció a una razón de probabilidades de 2,17 para dormir muy poco y de 2,72 para somnolencia diurna."
+ "titulo": "Tres respiraciones lentas antes de comer pueden ser una pausa pequeña para llegar al plato con calma.",
+ "texto": "Tres respiraciones lentas antes de comer pueden ser una pausa pequeña para llegar al plato con calma.",
+ "fuente": "",
+ "url_fuente": "",
+ "caption_ig": "¿Sabías que tres respiraciones lentas antes de comer pueden ser una pausa pequeña en medio del día? 🌬️\n\nInhala por la nariz contando hasta cuatro y suelta el aire despacio, más largo que al inhalar. Muchas personas lo usan como una forma simple de bajar el ritmo y llegar a la mesa con más calma.\n\nSi sientes mareo, para y respira con normalidad. Si tienes alguna condición respiratoria o cardíaca, consulta antes a un profesional.\n\n¿Te animas a probarlo en tu próximo almuerzo? Cuéntanos cómo te va 👇\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que tres respiraciones lentas antes de comer pueden ser una pausa pequeña en medio del día? 🌬️\n\nInhala por la nariz contando hasta cuatro y suelta el aire más despacio. Si sientes mareo, para y respira normal; si tienes una condición respiratoria o cardíaca, consulta antes a un profesional.\n\n¿Te animas a probarlo hoy? Cuéntanos 👇\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #respiración #pausa #calma #mindfulness #hábitossimples #bienestar #autocuidado #almuerzo #chile",
+ "alt": "Gráfica de SOSE con el texto: ¿Sabías que…? Tres respiraciones lentas antes de comer pueden ser una pausa pequeña para llegar al plato con calma."
 }
