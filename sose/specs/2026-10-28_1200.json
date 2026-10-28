@@ -1,51 +1,16 @@
 {
+ "formato": "simple",
  "fecha": "2026-10-28",
  "slot": "1200",
- "categoria": "Plantas y té",
- "tema": "Té negro y recuperación del estrés",
+ "categoria": "Mente tranquila",
+ "tema": "Cantar o tararear en la ducha",
  "kicker": "¿Sabías que…?",
- "titulo": "Tras un estrés de laboratorio, el cortisol bajó más en quienes tomaron té negro",
- "chart": {
-  "titulo": "Caída del cortisol 50 minutos después del estrés, %",
-  "subtitulo": "Ensayo aleatorizado doble ciego · 2007",
-  "items": [
-   {
-    "label": "Grupo té negro",
-    "valor": 47,
-    "texto": "47 %"
-   },
-   {
-    "label": "Grupo placebo",
-    "valor": 27,
-    "texto": "27 %"
-   }
-  ],
-  "maximo": 50,
-  "nota": "Hombres jóvenes sanos, estrés de laboratorio; financiado en parte por una empresa."
- },
- "cards": [
-  [
-   "75",
-   "hombres\nsanos"
-  ],
-  [
-   "6 semanas",
-   "de té negro o\nplacebo"
-  ],
-  [
-   "Psychopharm., 2007",
-   "revista científica\ndel ensayo"
-  ]
- ],
- "explicacion": [
-  "El estrés fue igual; cambió la recuperación.",
-  "Una sola muestra, no generalizable."
- ],
- "fuente_corta": "Fuente: Steptoe et al., Psychopharmacology (2007) / UCL",
- "fuente": "Steptoe A. et al., Psychopharmacology 190(1):81-89 (2007), ensayo aleatorizado doble ciego; cifras de cortisol según comunicado de University College London",
- "url_fuente": "https://www.ucl.ac.uk/news/2006/oct/black-tea-soothes-away-stress",
- "caption_ig": "¿Sabías que una investigación comparó cómo se recuperan del estrés quienes toman té negro? ☕\n\nEn un ensayo aleatorizado doble ciego publicado en Psychopharmacology (2007), 75 hombres jóvenes sanos tomaron durante 6 semanas una mezcla con los ingredientes del té negro o un placebo con el mismo sabor y cafeína. Después de tareas estresantes en el laboratorio, 50 minutos más tarde el cortisol había bajado en promedio 47 % en el grupo del té y 27 % en el grupo placebo. El grupo del té también reportó más relajación en la recuperación.\n\nOjo: el estrés durante las tareas fue similar en ambos grupos; el té se asoció a una recuperación más rápida, no a menos estrés. Fue una muestra pequeña de hombres jóvenes, con un tipo de té y estrés de laboratorio, y fue financiado en parte por una empresa. No sabemos qué compuestos explican el efecto. Es un apoyo, no un tratamiento.\n\n✨ Para tu rutina:\n• Una taza tibia a media tarde como pausa\n• El té tiene cafeína: si eres sensible o estás embarazada, consulta cuánto es adecuado para ti\n• Si el estrés te sobrepasa, habla con un profesional\n\nGuárdalo para tu rutina 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
- "caption_fb": "¿Sabías que una investigación comparó cómo se recuperan del estrés quienes toman té negro? ☕\n\nEn un ensayo de Psychopharmacology (2007) con 75 hombres sanos, tras 6 semanas el cortisol bajó 47 % en el grupo del té y 27 % en el grupo placebo, 50 minutos después de una tarea estresante. El estrés durante la tarea fue igual en ambos: cambió la recuperación.\n\nOjo: fue una muestra pequeña de hombres jóvenes, con estrés de laboratorio y financiamiento parcial de una empresa. Es un apoyo, no un tratamiento. El té tiene cafeína; si eres sensible o estás embarazada, consulta con tu médico.\n\n¿Cuál es tu pausa de la tarde? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
- "hashtags": "#sose #elartedeestarenpaz #tenegro #te #infusion #estres #cortisol #bienestar #autocuidado #vidasana #pausa #chile",
- "alt": "Gráfica de SOSE con dos barras: 50 minutos después de una tarea estresante el cortisol bajó 47 % en hombres que tomaron té negro durante 6 semanas y 27 % en el grupo placebo, en un ensayo aleatorizado con 75 hombres sanos publicado en 2007."
+ "titulo": "Tararear una canción en la ducha puede ser una forma simple de arrancar el día con mejor ánimo.",
+ "texto": "Tararear una canción en la ducha puede ser una forma simple de arrancar el día con mejor ánimo.",
+ "fuente": "",
+ "url_fuente": "",
+ "caption_ig": "¿Sabías que tararear o cantar en la ducha puede ser una forma simple de arrancar el día con mejor ánimo? 🎶\n\nNo hace falta afinar: el agua tibia, el eco del baño y tu canción favorita pueden hacer de esos minutos un pequeño momento solo para ti. Muchas personas dicen que se sienten más livianas después.\n\nUna idea para probar hoy: elige una canción que te guste y deja que suene (o tararea tú) mientras te bañas.\n\n¿Cuál es tu canción de ducha? Cuéntanos 👇\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que tararear o cantar en la ducha puede ser una forma simple de arrancar el día con mejor ánimo? 🎶\n\nNo hace falta afinar: tu canción favorita y el eco del baño pueden hacer de esos minutos un momento solo para ti.\n\n¿Cuál es tu canción de ducha? Cuéntanos 👇\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #duchaconmusica #cantaenladucha #música #calma #bienestar #autocuidado #hábitossimples #buenasmañanas #chile",
+ "alt": "Gráfica de SOSE con el texto: ¿Sabías que…? Tararear una canción en la ducha puede ser una forma simple de arrancar el día con mejor ánimo."
 }
