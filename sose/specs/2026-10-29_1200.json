@@ -1,51 +1,16 @@
 {
+ "formato": "simple",
  "fecha": "2026-10-29",
- "slot": "1200",
- "categoria": "Hidroterapia",
- "tema": "Flotar en agua tibia con sal y ansiedad",
  "kicker": "¿Sabías que…?",
- "titulo": "Flotar en agua tibia con sal fue viable en un ensayo con 75 personas con ansiedad",
- "chart": {
-  "titulo": "Asistencia a las 6 sesiones semanales (adherencia), %",
-  "subtitulo": "Ensayo aleatorizado de factibilidad · 2024",
-  "items": [
-   {
-    "label": "Flotación en agua tibia",
-    "valor": 85,
-    "texto": "85%"
-   },
-   {
-    "label": "Sillón de reposo (comparación)",
-    "valor": 74,
-    "texto": "74%"
-   }
-  ],
-  "maximo": 100,
-  "nota": "Midió factibilidad y seguridad, no si reduce la ansiedad. Muestra pequeña."
- },
- "cards": [
-  [
-   "75 personas",
-   "25 por grupo,\ncon ansiedad alta"
-  ],
-  [
-   "6 sesiones",
-   "de 1 hora, una\nvez por semana"
-  ],
-  [
-   "PLOS ONE, 2024",
-   "revista científica\ndel ensayo"
-  ]
- ],
- "explicacion": [
-  "No se informaron eventos adversos graves atribuidos a la flotación.",
-  "No evaluó si mejora la ansiedad."
- ],
- "fuente_corta": "Fuente: PLOS ONE (2024)",
- "fuente": "PLOS ONE 19(6):e0286899 (2024), ensayo aleatorizado de seguridad y factibilidad de la flotación (floatation-REST) en personas con ansiedad y depresión",
- "url_fuente": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11156321",
- "caption_ig": "¿Sabías que flotar en agua tibia con sal ya se estudió en personas con ansiedad? 🌊\n\nUn ensayo aleatorizado publicado en PLOS ONE (2024) asignó a 75 adultos con ansiedad alta a flotar una hora a la semana durante 6 semanas en una piscina con sal Epsom a unos 35 °C, o a reposar en un sillón en una sala tranquila. La asistencia fue de 85% en la piscina y 74% en el sillón, y no se informaron eventos adversos graves atribuidos a la intervención. Los efectos negativos más comunes fueron picazón y boca seca.\n\nOjo: fue un estudio de factibilidad y seguridad, con una muestra pequeña, y no evaluó si flotar reduce la ansiedad. Los propios autores piden estudios más grandes. Además, se hizo en una piscina de flotación especial, no en una tina de casa.\n\n✨ Para un momento de calma en casa:\n• Un baño tibio, no muy caliente, en un ambiente tranquilo\n• Luces bajas y sin pantallas\n• Si vives con ansiedad o depresión, hazlo como complemento y habla con un profesional de salud\n\nGuárdalo para tu rutina de calma 🤍\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
- "caption_fb": "¿Sabías que flotar en agua tibia con sal se probó en personas con ansiedad? 🌊\n\nEn un ensayo de PLOS ONE (2024) con 75 adultos, flotar una hora a la semana durante 6 semanas en agua con sal a unos 35 °C tuvo 85% de asistencia, y no se informaron eventos adversos graves atribuidos a la flotación.\n\nOjo: midió factibilidad y seguridad, no si reduce la ansiedad, y la muestra fue pequeña. Si vives con ansiedad o depresión, habla con un profesional de salud.\n\n¿Cómo te gusta relajarte con agua? Cuéntanos 👇\n\nSose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
- "hashtags": "#sose #elartedeestarenpaz #flotacion #hidroterapia #agua #relajacion #calma #ansiedad #bienestar #autocuidado #vidasana #chile",
- "alt": "Gráfica de SOSE con dos barras: la asistencia a las 6 sesiones fue de 85% en el grupo que flotó en agua tibia con sal y de 74% en el grupo del sillón de reposo, en un ensayo de 2024 con 75 personas."
+ "fuente": "",
+ "url_fuente": "",
+ "slot": "1200",
+ "categoria": "Mente en calma",
+ "tema": "Apagar notificaciones durante el baño",
+ "texto": "Un baño sin notificaciones puede ser el único momento del día sin interrupciones.",
+ "caption_ig": "¿Sabías que un baño sin notificaciones puede ser el único momento del día en que nadie te interrumpe? 📵🛁\n\nDeja el celular en otra habitación o ponlo en silencio antes de entrar. Esos minutos de agua tibia, sin pantallas, son una pausa pequeña que muchas personas disfrutan más de lo que esperaban.\n\nUna idea para probar hoy: entra al baño sin nada en las manos y solo escucha el sonido del agua.\n\n¿Te animas a probarlo? Cuéntanos en los comentarios cómo te fue 👇\n\nsose · el arte de estar en paz\n\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "caption_fb": "¿Sabías que un baño sin notificaciones puede ser el único momento del día en que nadie te interrumpe? 📵🛁\n\nDeja el celular en silencio y escucha solo el agua. Una idea para probar hoy.\n\n¿Te animas? Cuéntanos cómo te fue 👇\nsose · el arte de estar en paz\nContenido informativo, no reemplaza la orientación de un profesional de la salud.",
+ "hashtags": "#sose #elartedeestarenpaz #calma #baño #desconectar #pausa #bienestar #autocuidado #relajación #chile",
+ "alt": "Gráfica de SOSE con el texto: ¿Sabías que…? Un baño sin notificaciones puede ser el único momento del día sin interrupciones.",
+ "titulo": "Un baño sin notificaciones puede ser el único momento del día sin interrupciones."
 }
