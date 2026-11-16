@@ -1,4 +1,4 @@
-﻿id,tema,categoria,dato_verificado,fuente,url_fuente,estado
+id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 1,Baño frecuente y salud del corazón,Cuerpo y bienestar,Estudio japonés con >30.000 personas por ~20 años: quienes se bañaban casi a diario tuvieron 28% menos riesgo de enfermedad cardiovascular y 26% menos de ACV (vs. <2 veces/semana). Precaución: personas con problemas cardíacos o presión descontrolada deben consultar.,Harvard Health,https://www.health.harvard.edu/heart-health/hot-baths-and-saunas-beneficial-for-your-heart,"verificado, listo para producir"
 2,Lavanda y ansiedad,Aromas naturales,"Revisión sistemática 2023: 76 estudios, 6.539 participantes; más del 70% reportó efecto positivo en ansiedad. Ojo: certeza de la evidencia baja a moderada, hay que decirlo en el post.",Kings Research (resumen de la revisión),https://www.kingsresearch.com/blog/aromatherapy-sleep-stress-anxiety,"verificado, confirmar con paper original"
 3,Aromaterapia inhalada y sueño,Aromas naturales,"Revisión y metaanálisis (Her y Cho, Complement Ther Med 2021, 30 estudios): efecto 0,74 en calidad del sueño; 0,93 en estudios de mejor calidad. Calidad variable.",PubMed / Complementary Therapies in Medicine 2021,https://pubmed.ncbi.nlm.nih.gov/34166869/,usado 2026-10-08 2100
@@ -85,7 +85,7 @@
 84,Estirar los brazos al cielo al despertar,Hábitos simples,,,,usado 2026-11-10 1200 (formato simple)
 80,Escribir una lista corta de lo que sí quieres hacer mañana,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 81,Dejar el espejo del baño sin vapor abriendo un poco la ventana,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
-82,Una flor o rama en un vasito junto al lavamanos,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+82,Una flor o rama en un vasito junto al lavamanos,Plantas y té,,,,usado 2026-11-16 1200 (formato simple)
 83,Una vela o luz cálida al terminar el día,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 84,"Tomar el té sentado, sin pantallas",Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 85,Estirar el cuello suavemente bajo el agua de la ducha,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
@@ -101,7 +101,11 @@
 95,Regar una planta con calma como pequeña pausa del día,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 96,Dejar el celular cargando fuera del dormitorio,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 97,Cerrar la ducha con unos segundos de agua un poco más fresca en los pies,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
-98,Escribir una frase amable para ti antes de dormir,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+98,Escribir una frase amable para ti antes de dormir,Mente en calma,,,,usado 2026-11-16 2100 (formato simple)
 80,Mirar una foto o recuerdo lindo antes de dormir,Mente en calma,,,,por investigar (formato simple)
 81,Dejar correr el agua del baño unos segundos y respirar el vapor,Hidroterapia,,,,por investigar (formato simple)
 82,Un cojín pequeño para apoyar los pies al leer,Hábitos simples,,,,por investigar (formato simple)
+99,Dejar una toalla pequeña tibia sobre los hombros mientras lees,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+100,Elegir una taza especial solo para las infusiones de la noche,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+101,Cerrar los ojos y escuchar tres sonidos de la casa,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+102,Dejar abierta la ventana del baño un rato para renovar el aire,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
