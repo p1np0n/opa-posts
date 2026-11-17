@@ -61,11 +61,11 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 60,Música suave de fondo mientras preparas el té,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 61,Una planta de albahaca en la cocina para el aroma,Plantas y té,,,,usado 2026-11-05 1200 (formato simple)
 62,Menta fresca en una maceta,Plantas y té,,,,usado 2026-11-01 1200 (formato simple)
-63,Una taza con las dos manos y respirar el vapor,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+63,Una taza con las dos manos y respirar el vapor,Hábitos simples,,,,usado 2026-11-17 2100 (formato simple)
 64,Poner música suave mientras te bañas,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 65,Cambiar las sábanas: la sensación de cama limpia,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 66,Dejar el celular fuera del baño un ratito,Mente en calma,,,,por investigar (formato simple)
-67,Una toalla doblada y lista antes de bañarte,Hábitos simples,,,,por investigar (formato simple)
+67,Una toalla doblada y lista antes de bañarte,Hábitos simples,,,,usado 2026-11-17 1200 (formato simple)
 68,Un poco de luz natural al despertar,Sueño y descanso,,,,por investigar (formato simple)
 69,Oler una hoja de menta antes de beber el té,Plantas y té,,,,usado 2026-11-15 1200 (formato simple)
 70,Preparar la taza antes del baño para el té de después,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
@@ -109,3 +109,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 100,Elegir una taza especial solo para las infusiones de la noche,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 101,Cerrar los ojos y escuchar tres sonidos de la casa,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 102,Dejar abierta la ventana del baño un rato para renovar el aire,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+103,Mirar una planta unos segundos antes de empezar el día,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+104,Un jabón o aroma que te guste como señal de pausa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+105,Una manta liviana en el sillón para leer de noche,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+106,Guardar el celular 10 minutos antes de dormir,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
