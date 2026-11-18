@@ -45,13 +45,13 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 44,Tres respiraciones lentas antes de comer,Respiración,,,,usado 2026-10-27 1200 (formato simple)
 45,Calcetines tibios en noches frías,Sueño y descanso,,,,usado 2026-10-28 2100 (formato simple)
 46,Una vela o luz suave en el baño,Hidroterapia,,,,usado 2026-11-03 1200 (formato simple)
-47,Estirar los hombros mientras se calienta el agua,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+47,Estirar los hombros mientras se calienta el agua,Hábitos simples,,,,usado 2026-11-18 1200 (formato simple)
 48,Una infusión de manzanilla en una taza favorita,Plantas y té,,,,usado 2026-11-07 2100 (formato simple)
 49,Escuchar tu canción favorita mientras te bañas,Mente tranquila,,,,usado 2026-11-02 1200 (formato simple)
 50,Un vaso de agua al despertar,Hábitos simples,,,,usado 2026-10-31 1200 (formato simple)
 51,Apagar notificaciones durante el baño,Mente tranquila,,,,usado 2026-10-29 1200 (formato simple)
 52,Hojas de eucalipto colgadas en la ducha,Aromas,,,,usado 2026-10-29 2100 (formato simple)
-53,Un cojín o toalla enrollada bajo la nuca en la tina,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+53,Un cojín o toalla enrollada bajo la nuca en la tina,Hidroterapia,,,,usado 2026-11-18 2100 (formato simple)
 54,Una toalla tibia al salir de la ducha,Hidroterapia,,,,usado 2026-10-31 2100 (formato simple)
 55,"Beber el té despacio, sin pantallas",Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 56,Tres cosas buenas del día antes de dormir,Mente en calma,,,,usado 2026-11-03 2100 (formato simple)
@@ -113,3 +113,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 104,Un jabón o aroma que te guste como señal de pausa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 105,Una manta liviana en el sillón para leer de noche,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 106,Guardar el celular 10 minutos antes de dormir,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+107,Un jabón o toalla con aroma suave como pequeño ritual,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+108,Mirar las nubes o los árboles desde la ventana al terminar el día,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+109,Preparar una jarra de agua con rodajas de limón o pepino,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+110,Guardar un rincón de la casa solo para estar tranquilo,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
