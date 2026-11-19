@@ -92,14 +92,14 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 86,Una pausa para oler la tierra mojada tras la lluvia,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 87,Poner la alarma con un sonido suave y no estridente,Sueño y descanso,,,,usado 2026-11-14 2100 (formato simple)
 88,Una taza de agua tibia con rodaja de limón por la mañana,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
-89,Frotar suavemente las manos con crema y respirar su aroma,Piel y baño,,,,"por investigar (formato simple, sin dato científico)"
+89,Frotar suavemente las manos con crema y respirar su aroma,Piel y baño,,,,usado 2026-11-19 1200 (formato simple)
 90,Mirar el atardecer sin pantallas unos minutos,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 91,Dejar la tetera lista junto a la ventana para la tarde,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 92,Un vaso de agua con una rodaja de pepino en el baño,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 93,Escuchar el sonido de la lluvia o el viento unos minutos,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 94,Doblar la ropa tibia recién sacada del secador como pequeño placer,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 95,Regar una planta con calma como pequeña pausa del día,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
-96,Dejar el celular cargando fuera del dormitorio,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+96,Dejar el celular cargando fuera del dormitorio,Sueño y descanso,,,,usado 2026-11-19 2100 (formato simple)
 97,Cerrar la ducha con unos segundos de agua un poco más fresca en los pies,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 98,Escribir una frase amable para ti antes de dormir,Mente en calma,,,,usado 2026-11-16 2100 (formato simple)
 80,Mirar una foto o recuerdo lindo antes de dormir,Mente en calma,,,,por investigar (formato simple)
@@ -117,3 +117,6 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 108,Mirar las nubes o los árboles desde la ventana al terminar el día,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 109,Preparar una jarra de agua con rodajas de limón o pepino,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 110,Guardar un rincón de la casa solo para estar tranquilo,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+111,Mirar cómo sube el vapor de una taza caliente,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+112,Dejar una vela o luz cálida encendida mientras te bañas,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+113,Cambiar las sábanas y sentir ese olor a limpio,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
