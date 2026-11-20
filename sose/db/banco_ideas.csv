@@ -89,7 +89,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 83,Una vela o luz cálida al terminar el día,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 84,"Tomar el té sentado, sin pantallas",Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 85,Estirar el cuello suavemente bajo el agua de la ducha,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
-86,Una pausa para oler la tierra mojada tras la lluvia,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+86,Una pausa para oler la tierra mojada tras la lluvia,Aromas,,,,usado 2026-11-20 1200 (formato simple)
 87,Poner la alarma con un sonido suave y no estridente,Sueño y descanso,,,,usado 2026-11-14 2100 (formato simple)
 88,Una taza de agua tibia con rodaja de limón por la mañana,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 89,Frotar suavemente las manos con crema y respirar su aroma,Piel y baño,,,,usado 2026-11-19 1200 (formato simple)
@@ -111,7 +111,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 102,Dejar abierta la ventana del baño un rato para renovar el aire,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 103,Mirar una planta unos segundos antes de empezar el día,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 104,Un jabón o aroma que te guste como señal de pausa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
-105,Una manta liviana en el sillón para leer de noche,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+105,Una manta liviana en el sillón para leer de noche,Sueño y descanso,,,,usado 2026-11-20 2100 (formato simple)
 106,Guardar el celular 10 minutos antes de dormir,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 107,Un jabón o toalla con aroma suave como pequeño ritual,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 108,Mirar las nubes o los árboles desde la ventana al terminar el día,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
@@ -120,3 +120,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 111,Mirar cómo sube el vapor de una taza caliente,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 112,Dejar una vela o luz cálida encendida mientras te bañas,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 113,Cambiar las sábanas y sentir ese olor a limpio,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+114,Una taza de té en el balcón mirando el cielo,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+115,Dejar que el agua tibia corra sobre las manos unos segundos,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+116,Escribir tres palabras que describan tu día,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+117,Un aroma cítrico fresco al empezar la mañana,Aromas,,,,"por investigar (formato simple, sin dato científico)"
