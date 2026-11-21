@@ -122,5 +122,8 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 113,Cambiar las sábanas y sentir ese olor a limpio,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 114,Una taza de té en el balcón mirando el cielo,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 115,Dejar que el agua tibia corra sobre las manos unos segundos,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
-116,Escribir tres palabras que describan tu día,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
-117,Un aroma cítrico fresco al empezar la mañana,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+116,Escribir tres palabras que describan tu día,Mente en calma,,,,usado 2026-11-21 2100 (formato simple)
+117,Un aroma cítrico fresco al empezar la mañana,Aromas,,,,usado 2026-11-21 1200 (formato simple)
+118,Dejar una cáscara de naranja secándose cerca del radiador por el aroma,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+119,Un momento de silencio con los ojos cerrados antes de abrir el correo,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+120,Calentar la toalla cerca de la estufa antes del baño,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
