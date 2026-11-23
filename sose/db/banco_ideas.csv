@@ -106,14 +106,14 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 81,Dejar correr el agua del baño unos segundos y respirar el vapor,Hidroterapia,,,,por investigar (formato simple)
 82,Un cojín pequeño para apoyar los pies al leer,Hábitos simples,,,,por investigar (formato simple)
 99,Dejar una toalla pequeña tibia sobre los hombros mientras lees,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
-100,Elegir una taza especial solo para las infusiones de la noche,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+100,Elegir una taza especial solo para las infusiones de la noche,Plantas y té,,,,usado 2026-11-23 2100 (formato simple)
 101,Cerrar los ojos y escuchar tres sonidos de la casa,Mente en calma,,,usado 2026-11-22 2100 (formato simple),"por investigar (formato simple, sin dato científico)"
 102,Dejar abierta la ventana del baño un rato para renovar el aire,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 103,Mirar una planta unos segundos antes de empezar el día,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 104,Un jabón o aroma que te guste como señal de pausa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 105,Una manta liviana en el sillón para leer de noche,Sueño y descanso,,,,usado 2026-11-20 2100 (formato simple)
 106,Guardar el celular 10 minutos antes de dormir,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
-107,Un jabón o toalla con aroma suave como pequeño ritual,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+107,Un jabón o toalla con aroma suave como pequeño ritual,Aromas,,,,usado 2026-11-23 1200 (formato simple)
 108,Mirar las nubes o los árboles desde la ventana al terminar el día,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 109,Preparar una jarra de agua con rodajas de limón o pepino,Hábitos simples,,,usado 2026-11-22 1200 (formato simple),"por investigar (formato simple, sin dato científico)"
 110,Guardar un rincón de la casa solo para estar tranquilo,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
@@ -131,3 +131,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 122,Poner una cuchara en la taza y revolver el té despacio,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 123,Respirar tres veces mirando por la ventana antes de abrir el computador,Respiración,,,,"por investigar (formato simple, sin dato científico)"
 124,Un frasquito con hojas de menta o hierbabuena sobre la mesa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+125,Poner agua tibia en una botella para abrigar los pies en la cama,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+126,Dejar un libro o revista a mano para después del baño,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+127,Una rodaja de naranja o limón en la tetera por el aroma,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+128,Un minuto de silencio sentado antes de bañarte,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
