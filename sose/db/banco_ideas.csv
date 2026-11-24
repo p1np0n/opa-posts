@@ -119,7 +119,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 110,Guardar un rincón de la casa solo para estar tranquilo,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 111,Mirar cómo sube el vapor de una taza caliente,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 112,Dejar una vela o luz cálida encendida mientras te bañas,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
-113,Cambiar las sábanas y sentir ese olor a limpio,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+113,Cambiar las sábanas y sentir ese olor a limpio,Sueño y descanso,,,,usado 2026-11-24 2100 (formato simple)
 114,Una taza de té en el balcón mirando el cielo,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 115,Dejar que el agua tibia corra sobre las manos unos segundos,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 116,Escribir tres palabras que describan tu día,Mente en calma,,,,usado 2026-11-21 2100 (formato simple)
@@ -129,9 +129,12 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 120,Calentar la toalla cerca de la estufa antes del baño,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 121,Una lista de reproducción suave solo para después del baño,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 122,Poner una cuchara en la taza y revolver el té despacio,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
-123,Respirar tres veces mirando por la ventana antes de abrir el computador,Respiración,,,,"por investigar (formato simple, sin dato científico)"
+123,Respirar tres veces mirando por la ventana antes de abrir el computador,Respiración,,,,usado 2026-11-24 1200 (formato simple)
 124,Un frasquito con hojas de menta o hierbabuena sobre la mesa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 125,Poner agua tibia en una botella para abrigar los pies en la cama,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
 126,Dejar un libro o revista a mano para después del baño,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 127,Una rodaja de naranja o limón en la tetera por el aroma,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 128,Un minuto de silencio sentado antes de bañarte,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+129,Abrir las cortinas apenas despiertas para recibir la luz de la mañana,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+130,"Dejar el agua de la ducha tibia correr un momento antes de entrar, para sentir el vapor",Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+131,Un vaso de agua tibia en las manos mientras ves caer la tarde,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
