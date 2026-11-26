@@ -72,7 +72,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 71,Una pausa de un minuto mirando el cielo,Mente en calma,,,,usado 2026-11-08 1200 (formato simple)
 72,Secar las manos y la cara con una toalla tibia,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 73,Ordenar el velador antes de dormir,Hábitos simples,,,,usado 2026-11-05 2100 (formato simple)
-74,Regar las plantas con calma como pausa del día,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+74,Regar las plantas con calma como pausa del día,Plantas y té,,,,usado 2026-11-26 1200 (formato simple)
 75,Abrir las cortinas al despertar y dejar entrar la luz,Sueño y descanso,,,,usado 2026-11-06 1200 (formato simple)
 76,Tomar el té mirando cómo sube el vapor,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 77,Lavarte la cara con agua tibia como pequeño ritual de pausa,Hidroterapia,,,,usado 2026-11-06 2100 (formato simple)
@@ -98,7 +98,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 92,Un vaso de agua con una rodaja de pepino en el baño,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 93,Escuchar el sonido de la lluvia o el viento unos minutos,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 94,Doblar la ropa tibia recién sacada del secador como pequeño placer,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
-95,Regar una planta con calma como pequeña pausa del día,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+95,Regar una planta con calma como pequeña pausa del día,Plantas y té,,,,usado 2026-11-26 1200 (formato simple)
 96,Dejar el celular cargando fuera del dormitorio,Sueño y descanso,,,,usado 2026-11-19 2100 (formato simple)
 97,Cerrar la ducha con unos segundos de agua un poco más fresca en los pies,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 98,Escribir una frase amable para ti antes de dormir,Mente en calma,,,,usado 2026-11-16 2100 (formato simple)
@@ -116,7 +116,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 107,Un jabón o toalla con aroma suave como pequeño ritual,Aromas,,,,usado 2026-11-23 1200 (formato simple)
 108,Mirar las nubes o los árboles desde la ventana al terminar el día,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 109,Preparar una jarra de agua con rodajas de limón o pepino,Hábitos simples,,,usado 2026-11-22 1200 (formato simple),"por investigar (formato simple, sin dato científico)"
-110,Guardar un rincón de la casa solo para estar tranquilo,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+110,Guardar un rincón de la casa solo para estar tranquilo,Hábitos simples,,,,usado 2026-11-26 2100 (formato simple)
 111,Mirar cómo sube el vapor de una taza caliente,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 112,Dejar una vela o luz cálida encendida mientras te bañas,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 113,Cambiar las sábanas y sentir ese olor a limpio,Sueño y descanso,,,,usado 2026-11-24 2100 (formato simple)
@@ -142,3 +142,6 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 133,Dejar la puerta del baño entreabierta para que el aroma llegue a toda la casa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 134,Ponerte calcetines de lana limpios justo después de salir de la ducha,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
 135,Anotar una cosa buena del día en un papelito y guardarla en un frasco,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+136,Limpiar con un paño suave las hojas de una planta,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+137,Elegir un cojín o manta favorita para el rato de lectura,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+138,Respirar el aroma del pan o el café antes del primer bocado,Aromas,,,,"por investigar (formato simple, sin dato científico)"
