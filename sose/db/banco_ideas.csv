@@ -118,7 +118,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 109,Preparar una jarra de agua con rodajas de limón o pepino,Hábitos simples,,,usado 2026-11-22 1200 (formato simple),"por investigar (formato simple, sin dato científico)"
 110,Guardar un rincón de la casa solo para estar tranquilo,Hábitos simples,,,,usado 2026-11-26 2100 (formato simple)
 111,Mirar cómo sube el vapor de una taza caliente,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
-112,Dejar una vela o luz cálida encendida mientras te bañas,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+112,Dejar una vela o luz cálida encendida mientras te bañas,Hidroterapia,,,,usado 2026-11-27 2100 (formato simple)
 113,Cambiar las sábanas y sentir ese olor a limpio,Sueño y descanso,,,,usado 2026-11-24 2100 (formato simple)
 114,Una taza de té en el balcón mirando el cielo,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 115,Dejar que el agua tibia corra sobre las manos unos segundos,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
@@ -144,4 +144,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 135,Anotar una cosa buena del día en un papelito y guardarla en un frasco,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 136,Limpiar con un paño suave las hojas de una planta,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 137,Elegir un cojín o manta favorita para el rato de lectura,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
-138,Respirar el aroma del pan o el café antes del primer bocado,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+138,Respirar el aroma del pan o el café antes del primer bocado,Aromas,,,,usado 2026-11-27 1200 (formato simple)
+139,Doblar con calma la ropa recién lavada y sentir su aroma,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+140,Servir la once en tu plato favorito,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+141,Sentir las plantas de los pies en el suelo antes de levantarte,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
