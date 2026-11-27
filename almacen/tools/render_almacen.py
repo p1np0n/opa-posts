@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """Genera todas las publicaciones del almacén desde tools/contenido.py:
 almacen/AAAA-MM-DD_HHMM.jpg (1080x1350) + .txt (caption) y la base de datos almacen/db/publicaciones.csv.
-Uso: python3 almacen/tools/render_almacen.py"""
+Uso: python3 almacen/tools/render_almacen.py [--todo]\nSolo dibuja las imagenes que faltan (--todo las regenera todas). Fuentes: variables POPPINS_BOLD y POPPINS_MEDIUM (ttf o woff)."""
 import os, sys, csv
 from PIL import Image, ImageDraw, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__)); A = os.path.abspath(os.path.join(HERE, ".."))
 sys.path.insert(0, HERE); from contenido import C
 W, H = 1080, 1350
-FB = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"; FM = "/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf"
+FB = os.environ.get("POPPINS_BOLD", "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf")
+FM = os.environ.get("POPPINS_MEDIUM", "/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf")
 PAL = {"sabias": ("#0f766e", "¿SABÍAS QUE…?"), "util": ("#c2410c", "DATO ÚTIL"), "limpieza": ("#1d4ed8", "TIP DE LIMPIEZA"),
        "efemeride": ("#7e22ce", "HOY ES…"), "almacen": ("#b91c1c", "DEL ALMACÉN")}
 CAT = {"sabias": "Sabías que", "util": "Dato útil", "limpieza": "Tip de limpieza", "efemeride": "Efeméride", "almacen": "Del almacén"}
@@ -65,7 +66,8 @@ def caption(it):
 rows = []
 for it in C:
     base = f"{it[0]}_{it[1]}"
-    render(it, os.path.join(A, base + ".jpg"))
+    jpg = os.path.join(A, base + ".jpg")
+    if not os.path.exists(jpg) or "--todo" in sys.argv: render(it, jpg)  # solo genera las imagenes que faltan
     cap = caption(it)
     open(os.path.join(A, base + ".txt"), "w", encoding="utf-8").write(cap)
     rows.append({"fecha": it[0], "slot": it[1], "categoria": CAT[it[2]], "titulo": it[3], "puntos": " | ".join(it[4]), "cierre": it[5],
