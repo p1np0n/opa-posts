@@ -11,6 +11,8 @@ def chip(p):
     return f"{WD[d.weekday()]} {d.day} {MES[d.month-1]}"
 
 W, H = 1080, 1350
+FONT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fonts')
+INTER = 'file://' + os.path.join(FONT_DIR, 'Inter.ttf')
 
 def hsl(h, s, l):
     r, g, b = colorsys.hls_to_rgb((h % 360) / 360, l, s)
@@ -180,6 +182,7 @@ def page(p, idx):
     bigsize = 330 if len(p["big"]) <= 2 else (230 if len(p["big"]) <= 4 else 150)
     mot = motif_svg(p["motif"], h, idx*7+3)
     return f'''<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{{font-family:'Inter';src:url('{INTER}');font-weight:100 900}}
 *{{margin:0;padding:0;box-sizing:border-box}}
 body{{width:{W}px;height:{H}px;overflow:hidden;font-family:'Inter','Inter Display','DejaVu Sans',sans-serif;
 background:linear-gradient({ang}deg,{c1},{c2});color:#fff;position:relative}}
@@ -211,7 +214,8 @@ color:transparent;-webkit-text-stroke:5px rgba(255,255,255,.55);text-shadow:0 0 
 os.makedirs("png", exist_ok=True)
 os.makedirs("jpg", exist_ok=True)
 with sync_playwright() as pw:
-    b = pw.chromium.launch()
+    exe = os.environ.get('OPA_CHROMIUM') or ('/opt/pw-browsers/chromium' if os.path.isfile('/opt/pw-browsers/chromium') else None)
+    b = pw.chromium.launch(executable_path=exe, args=['--allow-file-access-from-files']) if exe else pw.chromium.launch()
     pg = b.new_page(viewport={'width': W, 'height': H})
     for i, p in enumerate(POSTS):
         pg.set_content(page(p, i))

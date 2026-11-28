@@ -13,3 +13,6 @@ Horarios (hora de Chile): 0900, 1400 y 2130. Un escenario de Make lee estos arch
 1. Musica: `REEL_BPM=118 REEL_PROG=b REEL_SEED=7 REEL_WAV=music.wav python3 tools/reel_music.py 38` (BPM 110-128; REEL_PROG a/b/c/d; cambiar seed para variar).
 2. Video: `python3 tools/reel_make.py spec.json salida.mp4 full music.wav`. El spec es un JSON con `intro` [numero, linea1, linea2, linea3], `outro` [linea1, linea2, llamado, texto final] y `scenes` (5 a 6): game (etiqueta), title, d (numero grande, max 4 caracteres), m (palabra bajo el numero), sub, sub2, hue (0-359), short y right (para la lista final). La duracion es 3 s + 6,2 s por escena + 4 s.
 3. Remux sin edit list: `ffmpeg -i salida.mp4 -c copy -use_editlist 0 -movflags +faststart final.mp4`. Requisitos de Instagram: MP4 H.264/AAC, 9:16, 3 a 90 s.
+
+## Agente de contenido
+La rutina que mantiene 14 días de contenido cargado está en `agente/AGENTE.md`. Herramientas: `tools/opa_status.py` (margen y huecos) y `tools/opa_batch.py` (carga un lote JSON de `agente/lotes/`). Las fuentes Poppins e Inter (licencia OFL) están en `tools/fonts/`.

@@ -1,10 +1,12 @@
+import os
 import math, colorsys, subprocess, sys
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 W,H,FPS=1080,1920,30
 DUR=38.0; BPM=124; spb=60/BPM
-FB="/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
-FM="/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf"
+_FD=os.path.join(os.path.dirname(os.path.abspath(__file__)),"fonts")
+FB=os.path.join(_FD,"Poppins-Bold.ttf") if os.path.exists(os.path.join(_FD,"Poppins-Bold.ttf")) else "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
+FM=os.path.join(_FD,"Poppins-Medium.ttf") if os.path.exists(os.path.join(_FD,"Poppins-Medium.ttf")) else "/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf"
 def F(p,s): return ImageFont.truetype(p,s)
 INTRO=3.0; SC=6.2; N=5; OUT0=INTRO+SC*N
 news=[
