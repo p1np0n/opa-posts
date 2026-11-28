@@ -96,7 +96,7 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 90,Mirar el atardecer sin pantallas unos minutos,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 91,Dejar la tetera lista junto a la ventana para la tarde,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 92,Un vaso de agua con una rodaja de pepino en el baño,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
-93,Escuchar el sonido de la lluvia o el viento unos minutos,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+93,Escuchar el sonido de la lluvia o el viento unos minutos,Mente en calma,,,,usado (programado nov-dic 2026)
 94,Doblar la ropa tibia recién sacada del secador como pequeño placer,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 95,Regar una planta con calma como pequeña pausa del día,Plantas y té,,,,usado 2026-11-26 1200 (formato simple)
 96,Dejar el celular cargando fuera del dormitorio,Sueño y descanso,,,,usado 2026-11-19 2100 (formato simple)
@@ -126,14 +126,14 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 117,Un aroma cítrico fresco al empezar la mañana,Aromas,,,,usado 2026-11-21 1200 (formato simple)
 118,Dejar una cáscara de naranja secándose cerca del radiador por el aroma,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 119,Un momento de silencio con los ojos cerrados antes de abrir el correo,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
-120,Calentar la toalla cerca de la estufa antes del baño,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+120,Calentar la toalla cerca de la estufa antes del baño,Hidroterapia,,,,usado (programado nov-dic 2026)
 121,Una lista de reproducción suave solo para después del baño,Hidroterapia,,,,usado 2026-11-25 2100 (formato simple)
 122,Poner una cuchara en la taza y revolver el té despacio,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 123,Respirar tres veces mirando por la ventana antes de abrir el computador,Respiración,,,,usado 2026-11-24 1200 (formato simple)
 124,Un frasquito con hojas de menta o hierbabuena sobre la mesa,Aromas,,,,usado 2026-11-25 1200 (formato simple)
-125,Poner agua tibia en una botella para abrigar los pies en la cama,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
-126,Dejar un libro o revista a mano para después del baño,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
-127,Una rodaja de naranja o limón en la tetera por el aroma,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
+125,Poner agua tibia en una botella para abrigar los pies en la cama,Sueño y descanso,,,,usado (programado nov-dic 2026)
+126,Dejar un libro o revista a mano para después del baño,Hábitos simples,,,,usado (programado nov-dic 2026)
+127,Una rodaja de naranja o limón en la tetera por el aroma,Plantas y té,,,,usado (programado nov-dic 2026)
 128,Un minuto de silencio sentado antes de bañarte,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
 129,Abrir las cortinas apenas despiertas para recibir la luz de la mañana,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 130,"Dejar el agua de la ducha tibia correr un momento antes de entrar, para sentir el vapor",Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
@@ -141,13 +141,19 @@ id,tema,categoria,dato_verificado,fuente,url_fuente,estado
 132,Mirar cómo sube el vapor de la taza antes del primer sorbo,Plantas y té,,,,"por investigar (formato simple, sin dato científico)"
 133,Dejar la puerta del baño entreabierta para que el aroma llegue a toda la casa,Aromas,,,,"por investigar (formato simple, sin dato científico)"
 134,Ponerte calcetines de lana limpios justo después de salir de la ducha,Hidroterapia,,,,usado (2026-11-28)
-135,Anotar una cosa buena del día en un papelito y guardarla en un frasco,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
+135,Anotar una cosa buena del día en un papelito y guardarla en un frasco,Mente en calma,,,,usado (programado nov-dic 2026)
 136,Limpiar con un paño suave las hojas de una planta,Plantas y té,,,,usado (2026-11-28)
 137,Elegir un cojín o manta favorita para el rato de lectura,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
 138,Respirar el aroma del pan o el café antes del primer bocado,Aromas,,,,usado 2026-11-27 1200 (formato simple)
-139,Doblar con calma la ropa recién lavada y sentir su aroma,Aromas,,,,"por investigar (formato simple, sin dato científico)"
-140,Servir la once en tu plato favorito,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
-141,Sentir las plantas de los pies en el suelo antes de levantarte,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
-142,Abrir la ventana cinco minutos para que entre aire fresco,Respiración,,,,"por investigar (formato simple, sin dato científico)"
-143,Una gota de aceite de lavanda en un pañuelo junto a la almohada,Aromas,,,,"por investigar (formato simple, sin dato científico)"
-144,Lavarte las manos con agua tibia y sin apuro al llegar a casa,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+139,Doblar con calma la ropa recién lavada y sentir su aroma,Aromas,,,,usado (programado nov-dic 2026)
+140,Servir la once en tu plato favorito,Hábitos simples,,,,usado (programado nov-dic 2026)
+141,Sentir las plantas de los pies en el suelo antes de levantarte,Mente en calma,,,,usado (programado nov-dic 2026)
+142,Abrir la ventana cinco minutos para que entre aire fresco,Respiración,,,,usado (programado nov-dic 2026)
+143,Una gota de aceite de lavanda en un pañuelo junto a la almohada,Aromas,,,,usado (programado nov-dic 2026)
+144,Lavarte las manos con agua tibia y sin apuro al llegar a casa,Hidroterapia,,,,usado (programado nov-dic 2026)
+145,Tomar un vaso de agua apenas te levantas,Hábitos simples,,,,"por investigar (formato simple, sin dato científico)"
+146,Una ducha corta con la luz apagada y solo la del pasillo,Hidroterapia,,,,"por investigar (formato simple, sin dato científico)"
+147,Ordenar la mesa de noche antes de dormir,Sueño y descanso,,,,"por investigar (formato simple, sin dato científico)"
+148,Ramitas de eucalipto colgadas en la ducha por el aroma del vapor,Aromas,,,,"por investigar (formato simple, sin dato científico)"
+149,Respirar contando hasta cuatro mientras esperas el agua caliente,Respiración,,,,"por investigar (formato simple, sin dato científico)"
+150,Caminar descalzo sobre el pasto unos minutos,Mente en calma,,,,"por investigar (formato simple, sin dato científico)"
