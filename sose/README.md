@@ -5,3 +5,6 @@ Cada publicacion son tres archivos con el mismo nombre base `AAAA-MM-DD_1200` o 
 - `tools/render_post.py <spec.json>`: genera jpg + textos y registra la fila en `db/publicaciones.csv`.
 - `db/publicaciones.csv`: base de datos de contenido. `db/banco_ideas.csv`: temas por investigar.
 - `assets/`: logo de SOSE.
+- `db/imagenes.csv`: catálogo de todas las gráficas (fecha, hora, link público, tema, estado). Se regenera con `python3 -I sose/tools/index_imagenes.py`.
+- Colchón: la tarea nocturna mantiene siempre 7 días de posts listos por adelantado y rellena cualquier hueco.
+- Fuentes para render_post.py: Lora (google/fonts) en /usr/share/fonts/truetype/google-fonts/ e Inter 4.0 en /usr/share/fonts/opentype/inter/.
